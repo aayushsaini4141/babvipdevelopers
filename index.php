@@ -26,7 +26,7 @@
 	<link rel="stylesheet" type="text/css" href="css/blocks.css">
 	<link rel="stylesheet" type="text/css" href="css/widgets.css">
 
-
+	
 	<!--External fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji" rel="stylesheet">
@@ -650,11 +650,14 @@
 	<section class="crumina-module crumina-module-slider pt100">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-6 col-md-6 col-sm-12 mb30">
+					<div >
 						<div class="crumina-module crumina-heading">
-							<h6 class="heading-sup-title">FAQ</h6>
-							<h2 class="heading-title">6 common Tech questions</h2>
+							<h5 class="heading-title">Our Services</h5>
+							<h1 class="heading-title text-black ">When your dreams include service to others – doing something that helps others – it also accelerates the achievement of that goal. People want to be part of something that contributes and makes a difference.</h1>
 						</div>
+					</div>
+					<div>
+
 					</div>
 				</div>
 
@@ -690,21 +693,35 @@
 								<div class="swiper-slide">
 									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
 										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="svg-icons/dial.svg" alt="image">
+											<img class="utouch-icon" src="https://babvipgroup.com//images/service_category/WEB-DESIGN-&-DEVELOPMENT.jpg" alt="image">
 										</div>
 									</div>
 
-									<div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">What’s wrong with using a Public Wi-Fi?</h5>
+									<div class="col-lg-8 col-md-12 col-sm-12 " data-swiper-parallax="-300">
+										<h5 class="slider-faqs-title">WEB DESIGN & DEVELOPMENT</h5>
 
-										<div class="row">
-											<div class="col-lg-6 col-md-6 col-sm-12">
-												<p>Most of us put a lot of effort into finding free Wi-Fi, but public Wi-Fi networks have their own share of problems, particularly that it is very insecure. Even if a Wi-Fi network has a password, other people on the network could see what you’re doing, or if they were so inclined, they could access and steal your personal information and passwords.
-												</p>
+										<div class="row p-5">
+											<div class="col-lg-6 col-md-6 col-sm-12 p-5">
+												<ul>
+													<li>Portfolio / CV Web Development</li>
+													<li>Blogging Web Development</li>
+													<li>Business Web Development</li>
+													<li>Personal Web Development</li>
+												</ul>
 											</div>
 											<div class="col-lg-6 col-md-6 col-sm-12">
-												<p>Luckily, there’s a lot you can do to stay safe: <br>1.) Make sure sharing is turned off <br>2.) Use HTTPS whenever possible <br>3.) Run your traffic through a VPN.</p>
+												<ul>
+													<li>Educational Web Development</li>
+													<li>Online Portal Development</li>
+													<li>Ecommerce Solutions - B2C / B2B</li>
+													<li>Informational Web Development</li>
+												</ul>	
 											</div>
+										</div>
+										<div style="display:flex; justify-content: center; align-item: center; height:100px; flex-direction: column;" >
+											<a href="contact" class="btn btn--primary btn--with-shadow" style="height:50px; width: 90%;">
+												View Plans
+											</a>
 										</div>
 									</div>
 								</div>
