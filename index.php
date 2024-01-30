@@ -70,14 +70,14 @@
 									<div class="slider-content align-center">
 
 										<h1 class="slider-content-title with-decoration" data-swiper-parallax="-100">
-											Welcome to <br> Ayush Developers
+										WELCOME TO BABVIP DEVELOPERS
 
 											<svg class="first-decoration utouch-icon utouch-icon-arrow-left"><use xlink:href="#utouch-icon-arrow-left"></use></svg>
 
 											<svg class="second-decoration utouch-icon utouch-icon-arrow-left"><use xlink:href="#utouch-icon-arrow-left"></use></svg>
 
 										</h1>
-										<h6 class="slider-content-text" data-swiper-parallax="-200">Highly rated<br>Very efficient and reliable<br>Your option for software development
+										<h6 class="slider-content-text" data-swiper-parallax="-200">"To give real service, you must add something that cannot be bought or measured with money, and that is sincerity and integrity."
 										</h6>
 
 										<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
@@ -200,8 +200,10 @@
 	<section class="medium-padding100">
 			<div class="container">
                 <div class="crumina-module crumina-heading">
-                    <h2 class="heading-title" style="text-align: center">Some of our successful <span class="c-primary">mobile applications</span></h2>
-                    <p class="heading-text" style="text-align: center">Here's our top 3 best performing applications we developed for mobile, available for download on the App Store.
+                    <h2 class="heading-title" style="text-align: center">Our Story <span class="c-primary">Our Story</span></h2>
+                    <p class="heading-text" style="margin:0" >Based in Uttarakhand, BABVIP DEVELOPERS  is a performance-driven company. Having experience of almost 7 years in this field, we have been able to offer multi-service delivery in diverse verticals like healthcare, financial services, public services, and many more. 
+						<p class="heading-text" style="margin:0" >Now a partner with us to encourage the expansion of your business and increase the growth of your company’s traffic as well as sales. We offer you services that will help you to stay ahead of your competitors and also stand out from the crowd. We, at BABVIP DEVELOPERS, have successful experience working with start-ups as well as large-scale businesses. So come and avail of our services to take your business completely to a new edge. 
+						</p>
                     </p>
                 </div>
 				<div class="row">

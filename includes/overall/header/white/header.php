@@ -17,7 +17,7 @@
 
             <div class="site-logo">
                 <a href="index" class="full-block"></a>
-                <img src="img/banner.png" alt="Gigabyte Developers">
+                <img style="height:40px" src="https://babvipgroup.com/images/BABVIP-logo-mobile.png" alt="Gigabyte Developers">
             </div>
 
             <nav id="primary-menu" class="primary-menu">
@@ -41,97 +41,79 @@
                     </li>
 
                     <li class="">
-                        <a href="#">Company</a>
+                        <a href="#">About Us</a>
                         <ul class="sub-menu">
                             <li>
                                 <a href="about">
-                                    About Us
+                                    CEO Desk
                                 </a>
                             </li>
                             <li>
                                 <a href="services">
-                                    Our Services
+                                    Company Profile
+                                </a>
+                            </li>
+                            <li>
+                                <a href="about">
+                                    Our Team
+                                </a>
+                            </li>
+                            <li>
+                                <a href="services">
+                                    Our Clients
                                 </a>
                             </li>
                         </ul>
                     </li>
+                    <li class="menu-item-has-children">
+                        <a href="index">Services</a>
+                    </li>
 
                     <li class="menu-item-has-mega-menu menu-item-has-children">
-                        <a href="products">Products</a>
+                        <a href="products">Plans</a>
                         <div class="megamenu with-products">
                             <div class="megamenu-row">
 
-                                <div class="col4" data-mh="product-item">
+                                <div class="col3" data-mh="product-item">
                                     <div class="product-item">
-                                        <div class="product-item-thumb">
-                                            <div class="square-colored bg-product-blue-dark"></div>
-                                            <img src="img/product-item4.jpg" alt="product">
-                                        </div>
                                         <div class="product-item-content">
-                                            <h6 class="title">Emoji Stickers<br>Emoji WhatsApp Stickers</h6>
-                                            <a href="https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.apps.whatsapp.stickers" class="more-arrow">
-                                                <span>View Emoji Stickers</span>
-                                                <div class="btn-next">
-                                                    <svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
-                                                    <svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
+                                            <h6 class="title" style= "margin-left:0">Web Design & Development</h6>
+                                                <div >
+                                                   <h6 style="color:rgb(0,131,255)" >See More</h6> 
+                                                   <h6 style="color:rgb(0,131,255)">Informational Plans</h6> 
+                                                   <h6 style="color:rgb(0,131,255)">E-commerce Plans</h6> 
                                                 </div>
+                                                
                                             </a>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="col4" data-mh="product-item">
+                                <div class="col3" data-mh="product-item">
                                     <div class="product-item">
-                                        <div class="product-item-thumb">
-                                            <div class="square-colored bg-product-violet"></div>
-                                            <img src="img/product-item2.jpg" alt="product">
-                                        </div>
                                         <div class="product-item-content">
-                                            <h6 class="title">FireFiles<br>Powerful File Manager</h6>
-                                            <a href="https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.explorer" class="more-arrow">
-                                                <span>View FireFiles</span>
-                                                <div class="btn-next">
-                                                    <svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
-                                                    <svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
+                                            <h6 class="title" style= "margin-left:0">Web Design & Development</h6>
+                                                <div >
+                                                   <h6 style="color:rgb(0,131,255)" >See More</h6> 
+                                                   <h6 style="color:rgb(0,131,255)">Informational Plans</h6> 
+                                                   <h6 style="color:rgb(0,131,255)">E-commerce Plans</h6> 
                                                 </div>
+                                                
                                             </a>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="col4" data-mh="product-item">
+                                <div class="col3" data-mh="product-item">
                                     <div class="product-item">
-                                        <div class="product-item-thumb">
-                                            <div class="square-colored bg-product-red"></div>
-                                            <img src="img/product-item3.jpg" alt="product">
-                                        </div>
                                         <div class="product-item-content">
-                                            <h6 class="title">CometOTP<br>2-Factor OTP Authenticator</h6>
-                                            <a href="https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.CometOTP" class="more-arrow">
-                                                <span>View CometOTP</span>
-                                                <div class="btn-next">
-                                                    <svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
-                                                    <svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
+                                            <h6 class="title" style= "margin-left:0">Web Design & Development</h6>
+                                                <div >
+                                                   <h6 style="color:rgb(0,131,255)" >See More</h6> 
+                                                   <h6 style="color:rgb(0,131,255)">Informational Plans</h6> 
+                                                   <h6 style="color:rgb(0,131,255)">E-commerce Plans</h6> 
                                                 </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col4" data-mh="product-item">
-                                    <div class="product-item">
-                                        <div class="product-item-thumb">
-                                            <div class="square-colored bg-product-blue"></div>
-                                            <img src="img/product-item1.jpg" alt="product">
-                                        </div>
-                                        <div class="product-item-content">
-                                            <h6 class="title">SonsHub Mobile<br>Gospel Content Platform</h6>
-                                            <a href="https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.apps.sonshub" class="more-arrow">
-                                                <span>View SonsHub Mobile</span>
-                                                <div class="btn-next">
-                                                    <svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
-                                                    <svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
-                                                </div>
+                                                
                                             </a>
                                         </div>
                                     </div>
