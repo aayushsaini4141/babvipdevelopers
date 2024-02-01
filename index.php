@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>Gigabyte Developers - Homepage</title>
+	<title>Vip Developers - Homepage</title>
 
     <meta name="google-site-verification" content="RjAgqUgYfT94lQ7oGZqqRI87NeSdR_6fecSUipiGBmg" />
     <meta name="msvalidate.01" content="F39E6D2A441B34A5BCA816D83B967BDF" />
@@ -70,7 +70,7 @@
 									<div class="slider-content align-center">
 
 										<h1 class="slider-content-title with-decoration" data-swiper-parallax="-100">
-										WELCOME TO BABVIP DEVELOPERS
+										WELCOME TO VIP DEVELOPERS
 
 											<svg class="first-decoration utouch-icon utouch-icon-arrow-left"><use xlink:href="#utouch-icon-arrow-left"></use></svg>
 
@@ -110,21 +110,21 @@
 								<div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
 									<div class="slider-content align-both">
 										<h2 class="slider-content-title" data-swiper-parallax="-100">
-											<span class="c-primary">Gigabyte Developers</span>
-											is one of the best Tech Company in Africa. 
+											<span class="c-primary">Vip Developers</span>
+											provides one of the best Tech Services in Uttrakhand. 
 										</h2>
-										<h6 class="slider-content-text" data-swiper-parallax="-200">We offer development services for a wide range of platforms for both Mobile and Web. <br>We deliver unique software solutions
+										<h6 class="slider-content-text" data-swiper-parallax="-200">We offer development services for a wide range of platforms for both Mobile and Web. <br>We deliver unique software solutions.
 										</h6>
 
-										<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
+										<!-- <div class="main-slider-btn-wrap" data-swiper-parallax="-300">
 
-											<!--<a href="#"   class="btn btn-market btn--with-shadow">
+											<a href="#"   class="btn btn-market btn--with-shadow">
 												<svg class="utouch-icon utouch-icon-apple-logotype-1"><use xlink:href="#utouch-icon-apple-logotype-1"></use></svg>
 												<div class="text">
 													<span class="sup-title">Download on the</span>
 													<span class="title">App Store</span>
 												</div>
-											</a>-->
+											</a>
 
 											<a href="#"   class="btn btn-market btn--with-shadow">
 												<img class="utouch-icon" src="svg-icons/google-play.svg" alt="google">
@@ -134,7 +134,7 @@
 												</div>
 											</a>
 
-										</div>
+										</div> -->
 
 									</div>
 								</div>
@@ -200,28 +200,30 @@
 	<section class="medium-padding100">
 			<div class="container">
                 <div class="crumina-module crumina-heading">
-                    <h2 class="heading-title" style="text-align: center">Our Story <span class="c-primary">Our Story</span></h2>
+                    <h2 class="heading-title" style="text-align: center"><span class="c-primary">Our Story</span></h2>
                     <p class="heading-text" style="margin:0" >Based in Uttarakhand, BABVIP DEVELOPERS  is a performance-driven company. Having experience of almost 7 years in this field, we have been able to offer multi-service delivery in diverse verticals like healthcare, financial services, public services, and many more. 
 						<p class="heading-text" style="margin:0" >Now a partner with us to encourage the expansion of your business and increase the growth of your company’s traffic as well as sales. We offer you services that will help you to stay ahead of your competitors and also stand out from the crowd. We, at BABVIP DEVELOPERS, have successful experience working with start-ups as well as large-scale businesses. So come and avail of our services to take your business completely to a new edge. 
 						</p>
                     </p>
                 </div>
 				<div class="row">
+					<h5 style="text-align: center">Blogs</h5>
+					
 					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-info-box info-box--standard-hover">
 
 							<div class="info-box-image">
-								<img class="utouch-icon" src="svg-icons/firefiles.svg" alt="smartphone">
-								<img class="cloud" src="img/clouds9.png" alt="cloud">
+								<img class="utouch-icon" src="https://www.pngplay.com/wp-content/uploads/9/WWW-Website-PNG-Photos.png" alt="smartphone">
+								<!-- <img class="cloud" src="http://www.pngall.com/wp-content/uploads/4/Website-PNG-High-Quality-Image.png" alt="cloud"> -->
 							</div>
 
 							<div class="info-box-content">
-								<a href="#" class="h5 info-box-title">FireFiles</a>
-								<p class="info-box-text">The All-in-One, Powerful Android File Manager for everything that runs on the Android OS. Over the past months, the installation and usage rate of firefiles across the world has experienced an accelerated increase. People love FireFiles.
-								</p>
+								<a href="#" class="h5 info-box-title">Websites</a>
+								<p class="info-box-text">
+									The 10 Best things about websites and its types.</p>
 							</div>
 
-							<a href="https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.explorer" target="_blank" class="btn-next">
+							<a href="" target="_blank" class="btn-next">
 								<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
 								<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
 							</a>
@@ -233,17 +235,17 @@
 						<div class="crumina-module crumina-info-box info-box--standard-hover">
 
 							<div class="info-box-image">
-								<img class="utouch-icon" src="svg-icons/cometotp.svg" alt="smartphone">
-								<img class="cloud" src="img/clouds10.png" alt="cloud">
+								<img class="utouch-icon" src="https://i2.wp.com/www.pngkey.com/png/full/815-8158398_digital-marketing-png-icon.png" alt="smartphone">
+								<!-- <img class="cloud" src="img/clouds10.png" alt="cloud"> -->
 							</div>
 
 							<div class="info-box-content">
-								<a href="#" class="h5 info-box-title">CometOTP</a>
-								<p class="info-box-text">One of the best, 2-Factor OTP Authentication (2FA) application for Android. With CometOTP, you need not worry about who has the passwords to your online accounts. Simply install CometOTP, and setup 2FA for swift authentication.
+								<a href="#" class="h5 info-box-title">Digital Marketing</a>
+								<p class="info-box-text">Winning Philosophy for the digital marketing.
 								</p>
 							</div>
 
-							<a href="https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.CometOTP" target="_blank" class="btn-next">
+							<a href="" target="_blank" class="btn-next">
 								<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
 								<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
 							</a>
@@ -254,17 +256,17 @@
                         <div class="crumina-module crumina-info-box info-box--standard-hover">
 
                             <div class="info-box-image">
-                                <img class="utouch-icon" src="svg-icons/sonshub.svg" alt="smartphone">
-                                <img class="cloud" src="img/clouds8.png" alt="cloud">
+                                <img class="utouch-icon" src="http://www.pngmart.com/files/7/Business-Transparent-PNG.png" alt="smartphone">
+                                <!-- <img class="cloud" src="img/clouds8.png" alt="cloud"> -->
                             </div>
 
                             <div class="info-box-content">
-                                <a href="#" class="h5 info-box-title">SonsHub Mobile</a>
-                                <p class="info-box-text">A platform to stream or download gospel content like sermons, devotionals, videos, songs, etc from gospel artists and religious leaders around the world. Download and Install SonsHub Mobile today to start enjoying unlimited gospel content.
+                                <a href="#" class="h5 info-box-title">Business</a>
+                                <p class="info-box-text">7 ways Blogging can improve your business.
                                 </p>
                             </div>
 
-                            <a href="https://play.google.com/store/apps/details?id=com.cuid.gigabytedevelopersinc.splanner" target="_blank" class="btn-next">
+                            <a href="" target="_blank" class="btn-next">
                                 <svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
                                 <svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
                             </a>
@@ -289,7 +291,7 @@
 							<div class="row">
 								<div class="col-lg-4 col-lg-offset-1 col-md-5 col-md-offset-0 col-sm-12 col-xs-12">
 									<div class="slider-tabs-vertical-thumb">
-										<img src="img/app-1.png" alt="iphone">
+										<img src="img/Screenshot mobile.png" alt="iphone">
 									</div>
 								</div>
 								<div class="col-lg-6 col-lg-offset-1 col-md-7 col-md-offset-0 col-sm-12 col-xs-12">
@@ -300,28 +302,28 @@
 										</div>
 									</div>
 
-									<a href="#"   class="btn btn-market btn--with-shadow">
+									<!-- <a href="#"   class="btn btn-market btn--with-shadow">
 										<svg class="utouch-icon utouch-icon-apple-logotype-1"><use xlink:href="#utouch-icon-apple-logotype-1"></use></svg>
 										<div class="text">
 											<span class="sup-title">Download on the</span>
 											<span class="title">App Store</span>
                                             <span class="title">Coming Soon</span>
 										</div>
-									</a>
+									</a> -->
 
-									<a href="https://play.google.com/store/apps/dev?id=4617962611760843834"   class="btn btn-market btn--with-shadow">
+									<!-- <a href="https://play.google.com/store/apps/dev?id=4617962611760843834"   class="btn btn-market btn--with-shadow">
 										<img class="utouch-icon" src="svg-icons/google-play.svg" alt="google">
 										<div class="text">
 											<span class="sup-title">Download on the</span>
 											<span class="title">Google Play</span>
 										</div>
-									</a>
+									</a> -->
 								</div>
 							</div>
 						</div>
 					</div>
 
-					<div class="swiper-slide bg-orange-light bg-6" data-mh="slide">
+					<!-- <div class="swiper-slide bg-orange-light bg-6" data-mh="slide">
 						<div class="container">
 							<div class="row">
 								<div class="col-lg-4 col-lg-offset-1 col-md-5 col-md-offset-0 col-sm-12 col-xs-12">
@@ -355,7 +357,7 @@
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 
 					<!--<div class="swiper-slide bg-red bg-7" data-mh="slide">
 						<div class="container">
@@ -403,9 +405,9 @@
 						<span class="round primary"></span>01.
 					</a>
 
-					<a href="#" class="slides-item">
+					<!-- <a href="#" class="slides-item">
 						<span class="round orange"></span>02.
-					</a>
+					</a> -->
 
 					<!--<a href="#" class="slides-item">
 						<span class="round red"></span>03.
@@ -422,7 +424,7 @@
 
 	<!-- Video -->
 
-	<section class="bg-8 background-contain pt100">
+	<!-- <section class="bg-8 background-contain pt100">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -452,14 +454,14 @@
 					</div>
 				</div>
 			</div>
-	</section>
+	</section> -->
 
 	<!-- ... end Video -->
 
 
 	<!-- Clients Block -->
 
-	<section class="crumina-module crumina-clients background-contain bg-yellow">
+	<!-- <section class="crumina-module crumina-clients background-contain bg-yellow">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
@@ -512,7 +514,7 @@
 					</div>
 				</div>
 			</div>
-	</section>
+	</section> -->
 
 	<!-- ... end Clients Block -->
 
@@ -531,7 +533,7 @@
 								</div>
 								<div class="info-box-content">
 									<h5 class="info-box-title">Professional Designs</h5>
-									<p class="info-box-text">Design and Develop your websites with Us. <br>Unique, Professional Graphic and Web Designs are right here at Gigabyte Developers because Creativity is our first choice for Success.
+									<p class="info-box-text">Design and Develop your websites with Us. <br>Unique, Professional Graphic and Web Designs are right here at Vip Developers because Creativity is our first choice for Success.
 									</p>
 								</div>
 							</div>
@@ -549,7 +551,7 @@
 						</div>
 
 						<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 align-center">
-							<img class="particular-image" src="img/image.png" alt="image">
+							<img class="particular-image" src="https://www.simpalm.com/wp-content/uploads/2020/05/mobile-app-developmen-simpalm.png" alt="image">
 <!--							<a href="products" class="btn btn--red btn--with-shadow">-->
 <!--								Learn More-->
 <!--							</a>-->
@@ -633,7 +635,8 @@
 
 						<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 							<h5 class="c-white">We have a global reach</h5>
-							<p class="c-semitransparent-white">Gigabyte Developers has gotten a worldwide coverage with our applications actively used on 130+ countries around the globe.</p>
+							<p class="c-semitransparent-white">Vip Developers has gotten a worldwide coverage with our
+								 applications actively used on 130+ countries around the globe.</p>
 						</div>
 
 					</div>
@@ -693,7 +696,7 @@
 								<div class="swiper-slide">
 									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
 										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="https://babvipgroup.com//images/service_category/WEB-DESIGN-&-DEVELOPMENT.jpg" alt="image">
+											<img class="utouch-icon" src="https://digiwebtek.com/wp-content/uploads/2020/11/Creation-de-siteweb2022-2048x2048.png" alt="image">
 										</div>
 									</div>
 
@@ -728,138 +731,179 @@
 								<div class="swiper-slide">
 									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
 										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="svg-icons/fingerprint.svg" alt="image">
+											<img class="utouch-icon" src="https://www.pngmart.com/files/7/SEO-Transparent-PNG.png" alt="image">
 										</div>
 									</div>
 
-									<div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">How does a fingerprint scanner work?</h5>
-										<p>Fingerprint scanners may employ different types of sensors to scan and generate the digital image of fingerprint patterns. Fingerprint sensors make use of different techniques to scan fingerprints, for example a sensor may be optical, capacitive, thermal, etc. When a finger is put on the scanning area, digital image of fingerprint patterns is read by the sensor. This digital image is pre-processed to remove unnecessary noise and enhance the image quality. This enhanced image is taken through a fingerprint algorithm to identify unique points like ridge endings, bifurcation, short ridge, island, spur, etc. These details are called minutiae. Since there are a huge number of possibilities for the location of minutiae, fingerprints are theoretically unique. A biometric template is generated after post-processing the fingerprint image, which is stored in a database.
-										</p>
+									<div class="col-lg-8 col-md-12 col-sm-12 " data-swiper-parallax="-300">
+										<h5 class="slider-faqs-title">Search Engine Optimization</h5>
 
-										<div class="row">
-											<div class="col-lg-6 col-md-6 col-sm-12">
-												<ul class="list list--standard">
-													<li>
-														<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-														<a href="#">Contact Us to develop your fingerprint algorithm</a>
-													</li>
+										<div class="row p-5">
+											<div class="col-lg-6 col-md-6 col-sm-12 p-5">
+												<ul>
+													<li>Local Search Engine Optimization</li>
+													<li>State Search Engine Optimization</li>
+													<li>National Search Engine Optimization</li>
+													<li>International Search Engine Optimization</li>
 												</ul>
 											</div>
+											<div class="col-lg-6 col-md-6 col-sm-12">
+												<ul>
+													<li>Off Page Search Engine Optimization</li>
+													<li>On Page Search Engine Optimization</li>
+													<li>Technical Search Engine Optimization</li>
+													<li>SEO Audit Report Optimization</li>
+												</ul>	
+											</div>
+										</div>
+										<div style="display:flex; justify-content: center; align-item: center; height:100px; flex-direction: column;" >
+											<a href="contact" class="btn btn--primary btn--with-shadow" style="height:50px; width: 90%;">
+												View Plans
+											</a>
 										</div>
 									</div>
-								</div>
-								<div class="swiper-slide">
+								</div><div class="swiper-slide">
 									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
 										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="svg-icons/devices.svg" alt="image">
+											<img class="utouch-icon" src="https://www.jrjglobal.com/wp-content/uploads/2020/12/mobile-app-dev.png" alt="image">
 										</div>
 									</div>
 
-									<div class="col-lg-8 col-md-8 col-sm-12" data-swiper-parallax="-100">
-										<h5 class="slider-faqs-title">2FA vs Security Question?</h5>
-										<p>The one-time token via 2FA offers much more security than the secret question simply because it implements 2-factor authentication; all things being equal, 2FA (password + code via SMS, password + RSA SecureID token, etc) is always safer than a simple password or security question which can be easily broken into and bypassed.
-										</p>
+									<div class="col-lg-8 col-md-12 col-sm-12 " data-swiper-parallax="-300">
+										<h5 class="slider-faqs-title">Mobile App Development</h5>
 
-										<div class="row">
-											<div class="col-lg-6 col-md-6 col-sm-12">
-												<div class="crumina-module crumina-info-box info-box--standard">
-													<div class="info-box-image display-flex">
-														<svg class="utouch-icon utouch-icon-checked"><use xlink:href="#utouch-icon-checked"></use></svg>
-														<h6 class="info-box-title">Quick Settings (UX)</h6>
-													</div>
-													<p class="info-box-text">CometOTP is our unique 2FA mobile application with a great User Experience, easy navigation and simplicity. Download it on Play Store
-													</p>
-												</div>
-											</div>
-											<div class="col-lg-6 col-md-6 col-sm-12">
-												<div class="crumina-module crumina-info-box info-box--standard">
-													<div class="info-box-image display-flex">
-														<svg class="utouch-icon utouch-icon-checked"><use xlink:href="#utouch-icon-checked"></use></svg>
-														<h6 class="info-box-title">Looks Perfect (UI)</h6>
-													</div>
-													<p class="info-box-text">CometOTP is our unique 2FA mobile application with a great material design that offers a perfect User Interface.</p>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="swiper-slide">
-									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
-										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="svg-icons/payment-method.svg" alt="image">
-										</div>
-									</div>
-
-									<div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">How to protect your ATM cards online?</h5>
-										<p class="weight-bold">Online shopping is now more popular today than ever, which means it is more important than ever to protect your information online. Try to shop at established businesses/stores that you can contact easily if there is an issue.
-										</p>
-                                        <p>Look for sites with <b>https:</b> in their web addresses—the <b><i>“s”</i></b> stands for secured. Even if you’re on a secured site, don’t share your information unless you have to and you know how it will be used. Make sure you check policies on payment, refunds, returns and shipping. Finally, be sure to keep copies of any confirmation codes or receipts.
-										</p>
-									</div>
-								</div>
-								<div class="swiper-slide">
-									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
-										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="svg-icons/chat1.svg" alt="image">
-										</div>
-									</div>
-
-									<div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">What are the types of mobile applications?</h5>
-
-										<div class="row">
-											<div class="col-lg-6 col-md-6 col-sm-12">
-												<p>Mobile applications are of three types:<br><br><b>Native Application: </b>Native application installed from specific application store like Android’s google play and Apple’s app store. An app which can be installed and run on your mobile devices is known as a native application. E.g: WhatsApp, Angry birds, etc.
-												</p>
-                                                <p><b>Web Application: </b>Web applications run from mobile web browsers like Chrome, Firefox, Opera, Safari etc using mobile network or WiFi. Examples are <a href="https://m.facebook.com" target="_blank">m.facebook.com</a>, <a href="https://m.gmail.com" target="_blank">m.gmail.com</a>, <a href="https://m.yahoo.com" target="_blank">m.yahoo.com</a>, etc.</p>
-											</div>
-											<div class="col-lg-6 col-md-6 col-sm-12">
-                                                <p><b>Hybrid Application: </b>Hybrid applications are combinations of native and web application. They can run on devices or offline and are written using web technologies like HTML5 and CSS. Some examples are eBay, Flipkart, etc.</p>
-                                                <a href="contact" class="btn btn-border btn--with-shadow c-secondary">
-                                                    Contact Us Now
-                                                </a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="swiper-slide">
-									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
-										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="svg-icons/tap.svg" alt="image">
-										</div>
-									</div>
-
-									<div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">What are the benefits of biometric technologies?</h5>
-
-										<div class="row">
-											<div class="col-lg-6 col-md-6 col-sm-12">
-												<p>Biometric technology authenticates users based on the unique characteristics of an individual user. These characteristics are not easily stolen, lost, forgotten or imitated, making biometrics a better alternative than token technologies such as smart cards and other “tow factor” authentication systems.
-												</p>
-												<p>Biometrics has been successful as part of both physical and technology access solutions.</p>
-											</div>
-											<div class="col-lg-6 col-md-6 col-sm-12">
-												<p>Biometrics does reduce costs associated with users forgetting passwords--help desk costs for this activity range from $25 to $75 per reset.</p>
-												<ul class="list list--standard">
-													<li>
-														<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-														<a href="https://bayometric.com" target="_blank">Learn more about Biometric technology</a>
-													</li>
-													<li>
-														<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-														<a href="#">Setup a Biometric System now</a>
-													</li>
+										<div class="row p-5">
+											<div class="col-lg-6 col-md-6 col-sm-12 p-5">
+												<ul>
+													<li>Lifestyle Mobile Apps </li>
+													<li>Social Media Mobile Apps</li>
+													<li>Games/Entertainment Mobile Apps</li>
+													<li>Utility Mobile Apps</li>
 												</ul>
 											</div>
+											<div class="col-lg-6 col-md-6 col-sm-12">
+												<ul>
+													<li>Productivity Mobile Apps</li>
+													<li>News/Information Outlets Mobile Apps</li>
+													<li>Ios Apps Development</li>
+													<li>Mobile Apps Development</li>
+												</ul>	
+											</div>
+										</div>
+										<div style="display:flex; justify-content: center; align-item: center; height:100px; flex-direction: column;" >
+											<a href="contact" class="btn btn--primary btn--with-shadow" style="height:50px; width: 90%;">
+												View Plans
+											</a>
+										</div>
+									</div>
+								</div>
+
+								<div class="swiper-slide">
+									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
+										<div class="slider-faqs-thumb">
+											<img class="utouch-icon" src="https://maxzionit.com/wp-content/uploads/2018/04/Graphics-Design.png" alt="image">
 										</div>
 									</div>
 
+									<div class="col-lg-8 col-md-12 col-sm-12 " data-swiper-parallax="-300">
+										<h5 class="slider-faqs-title">Graphics Designing</h5>
+
+										<div class="row p-5">
+											<div class="col-lg-6 col-md-6 col-sm-12 p-5">
+												<ul>
+													<li>Corporate Graphic Designing </li>
+													<li>Publication Graphic Designing</li>
+													<li>Pacakaging Graphic Designing</li>
+													<li>Website Graphic Designing</li>
+												</ul>
+											</div>
+											<div class="col-lg-6 col-md-6 col-sm-12">
+												<ul>
+													<li>Advertising Graphic Designing</li>
+													<li>Book Cover,Brochure,Label,Stationary Design</li>
+													<li>Customize T-shirts,3D Graphic Design</li>
+													<li>Vehicle Wrap Graphic Design</li>
+												</ul>	
+											</div>
+										</div>
+										<div style="display:flex; justify-content: center; align-item: center; height:100px; flex-direction: column;" >
+											<a href="contact" class="btn btn--primary btn--with-shadow" style="height:50px; width: 90%;">
+												View Plans
+											</a>
+										</div>
+									</div>
+								</div>							
+								
+								<div class="swiper-slide">
+									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
+										<div class="slider-faqs-thumb">
+											<img class="utouch-icon" src="http://pluspng.com/img-png/advertising-png-entrepreneurship-image-2-800.png" alt="image">
+										</div>
+									</div>
+
+									<div class="col-lg-8 col-md-12 col-sm-12 " data-swiper-parallax="-300">
+										<h5 class="slider-faqs-title">Branding & Promotion</h5>
+
+										<div class="row p-5">
+											<div class="col-lg-6 col-md-6 col-sm-12 p-5">
+												<ul>
+													<li>Personal Branding</li>
+													<li>Product Branding</li>
+													<li>Service Branding</li>
+													<li>Retail Branding</li>
+												</ul>
+											</div>
+											<div class="col-lg-6 col-md-6 col-sm-12">
+												<ul>
+													<li>Cultural & Geographic Branding</li>
+													<li>Corporate Branding</li>
+													<li>Offline Branding</li>
+													<li>Online Branding</li>
+												</ul>	
+											</div>
+										</div>
+										<div style="display:flex; justify-content: center; align-item: center; height:100px; flex-direction: column;" >
+											<a href="contact" class="btn btn--primary btn--with-shadow" style="height:50px; width: 90%;">
+												View Plans
+											</a>
+										</div>
+									</div>
 								</div>
+								<div class="swiper-slide">
+									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
+										<div class="slider-faqs-thumb">
+											<img class="utouch-icon" src="https://www.bursys.com/wp-content/uploads/2022/09/CRM_and_ERP_Implementations.png" alt="image">
+										</div>
+									</div>
 
-							</div>
+									<div class="col-lg-8 col-md-12 col-sm-12 " data-swiper-parallax="-300">
+										<h5 class="slider-faqs-title">ERP & CRM Development</h5>
 
+										<div class="row p-5">
+											<div class="col-lg-6 col-md-6 col-sm-12 p-5">
+												<ul>
+													<li>ERP & CRM For Education</li>
+													<li>ERP & CRM For Retail</li>
+													<li>ERP & CRM For Manufacturing</li>
+													<li>ERP & CRM For Healtcare</li>
+												</ul>
+											</div>
+											<div class="col-lg-6 col-md-6 col-sm-12">
+												<ul>
+													<li>ERP & CRM For Construction</li>
+													<li>ERP & CRM For Automotive Industry</li>
+													<li>ERP & CRM For Food Industry</li>
+													<li>ERP & CRM For Real Estate</li>
+												</ul>	
+											</div>
+										</div>
+										<div style="display:flex; justify-content: center; align-item: center; height:100px; flex-direction: column;" >
+											<a href="contact" class="btn btn--primary btn--with-shadow" style="height:50px; width: 90%;">
+												View Plans
+											</a>
+										</div>
+									</div>
+								</div>			
 							<!--Prev next buttons-->
 
 							<div class="btn-slider-wrap navigation-left-bottom">
@@ -894,7 +938,10 @@
 						<div class="crumina-module crumina-heading">
 							<h6 class="heading-sup-title">Screenshots</h6>
 							<h2 class="heading-title">Beautiful Interface</h2>
-							<p class="heading-text">A good user interface can have a powerful impact on the usability and user experience of an application. Here at Gigabyte Developers, we aspire to create an interface that enables and encourages end users to use our software more frequently, so they become more confident, efficient and productive users.<br> We provide you with the best Software solutions for your business.
+							<p class="heading-text">A good user interface can have a powerful impact on the usability and 
+								user experience of an application. Here at Vip Developers, we aspire to create an interface 
+								that enables and encourages end users to use our software more frequently, so they become more confident,
+								 efficient and productive users.<br> We provide you with the best Software solutions for your business.
 							</p>
 						</div>
 						<div class="row">
@@ -904,7 +951,8 @@
 										<svg class="utouch-icon utouch-icon-checked"><use xlink:href="#utouch-icon-checked"></use></svg>
 										<h6 class="info-box-title">Easy Navigation</h6>
 									</div>
-									<p class="info-box-text">Software that trends would always have an awesome User Experience. Our apps are developed with our users in mind.
+									<p class="info-box-text">Software that trends would always have an awesome User Experience. 
+										Our apps are developed with our users in mind.
 									</p>
 								</div>
 							</div>
@@ -924,13 +972,13 @@
 						<div class="swiper-container pagination-bottom slider-tripple-right-image" data-show-items="1" data-effect="coverflow" data-centered-slider="false" data-stretch="170" data-depth="195">
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="img/phone-1.png" alt="slide">
+									<img src="img/Screenshot 2.png" alt="slide">
 								</div>
 								<div class="swiper-slide">
-									<img src="img/phone-2.png" alt="slide">
+									<!-- <img src="img/Screenshot 2.png" alt="slide"> -->
 								</div>
 								<div class="swiper-slide">
-									<img src="img/phone-3.png" alt="slide">
+									<!-- <img src="img/Screenshot 3.png" alt="slide"> -->
 								</div>
 							</div>
 							<!-- If we need pagination -->
@@ -949,6 +997,7 @@
 	<section class="crumina-module crumina-module-slider bg-4 cloud-center navigation-center-both-sides medium-padding100">
 			<div class="container">
 				<div class="row">
+					<h5 style="text-align: center">Projects<h5>
 					<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
 						<div class="swiper-container" data-effect="fade">
 							<div class="swiper-wrapper">
@@ -959,13 +1008,15 @@
 									</div>
 
 									<h6 class="testimonial-text" data-swiper-parallax="-300">
-										You all are worth my 5stars because you turned my dreams of owning an online store into reality for me. I have successfully launched my shopping website, all thanks to Gigabyte Developers.
+										You all are worth my 5stars because you turned my dreams of owning 
+										an online store into reality for me. I have successfully launched my 
+										shopping website, all thanks to Vip Developers.
 									</h6>
 
 									<div class="author-info-wrap" data-swiper-parallax="-100">
 
 										<div class="author-info">
-											<a href="#" class="h6 author-name">Tunji (Ojalawa)</a>
+											<a href="#" class="h6 author-name">Ritesh Sharma (Roorkee)</a>
 											<div class="author-company">Entrepreneur, 23 years old</div>
 										</div>
 
@@ -979,7 +1030,10 @@
 									</div>
 
 									<h6 class="testimonial-text" data-swiper-parallax="-300">
-										I have been using CalcMate for a while now and it has been at the top of it's game. Starting from its effectiveness to fastness to its eas of use everything is so perfect. To top it all they even added graph feature and can solve all type of equations. Awesome indeed!!!
+										I have been using your's website for a while now and it has been at the top of it's
+										Starting from its effectiveness to fastness to its eas of use everything is so perfect.
+										 To top it all they even added graph feature and can solve all type of equations. 
+										 Awesome indeed!!!
 									</h6>
 
 									<div class="author-info-wrap" data-swiper-parallax="-100">
@@ -1020,10 +1074,10 @@
 
 			<!--Prev next buttons-->
 
-			<div class="btn-prev">
+			<!-- <div class="btn-prev">
 				<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
 				<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
-			</div>
+			</div> -->
 
 			<div class="btn-next">
 				<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
@@ -1046,7 +1100,7 @@
 
 							<div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
 								<div class="crumina-module crumina-heading">
-									<h2 class="heading-title">Love offers and discounts? Subscribe Now.</h2>
+									<h2 class="heading-title">Subscribe to our Newslatter.</h2>
 									<p class="heading-text">Stay informed and stay connected with Us, we would keep you
                                         posted regularly and from time to time.
 									</p>
@@ -1077,8 +1131,10 @@
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12">
 						<div class="crumina-module crumina-heading">
-							<h2 class="heading-title">Hire <span class="c-primary">Gigabyte Developers</span> now!</h2>
-							<p class="heading-text">Do you want our team to do the work for you? Of course you want to! At Gigabyte Developers, we work very hard every day to develop lots of interesting software solutions and also craft pixel perfect sites <br>So, click on the button below to get started.
+							<h2 class="heading-title">Hire <span class="c-primary">Vip Developers</span> now!</h2>
+							<p class="heading-text">Do you want our team to do the work for you? Of course you want to! 
+								At Vip Developers, we work very hard every day to develop lots of interesting software solutions
+								 and also craft pixel perfect sites <br>So, click on the button below to get started.
 							</p>
 						</div>
 
