@@ -652,8 +652,8 @@
 				<div class="row">
 					<div >
 						<div class="crumina-module crumina-heading">
-							<h5 class="heading-title">Our Services</h5>
-							<h1 class="heading-title text-black ">When your dreams include service to others – doing something that helps others – it also accelerates the achievement of that goal. People want to be part of something that contributes and makes a difference.</h1>
+							<h5 class="heading-sup-title">Our Services</h5>
+							<h5 class="heading-title text-black ">When your dreams include service to others – doing something that helps others – it also accelerates the achievement of that goal. People want to be part of something that contributes and makes a difference.</h5>
 						</div>
 					</div>
 					<div>
