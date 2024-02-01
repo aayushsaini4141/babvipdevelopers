@@ -17,7 +17,7 @@
 
             <div class="site-logo">
                 <a href="index" class="full-block"></a>
-                <img style="height:40px" src="https://babvipgroup.com/images/BABVIP-logo-mobile.png" alt="Gigabyte Developers">
+                <img style="height:140px" src="https://webdevglobal.com/images/logo.png" alt="Gigabyte Developers">
             </div>
 
             <nav id="primary-menu" class="primary-menu">
