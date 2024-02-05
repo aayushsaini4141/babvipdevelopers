@@ -20,14 +20,14 @@
     <meta name="description" content="Official Pricing for our Services at Gigabyte Developers">
     <meta name="author" content="Gigabyte Developers Incorporated">
     <meta name="theme-color" content="#028fcc">
-    <link rel="shortcut icon" href="img/gigaicon.png">
+    <link rel="shortcut icon" href="../img/gigaicon.png">
 
-	<link rel="stylesheet" type="text/css" href="css/theme-styles.css">
-	<link rel="stylesheet" type="text/css" href="css/blocks.css">
-	<link rel="stylesheet" type="text/css" href="css/widgets.css">
+	<link rel="stylesheet" type="text/css" href="../css/theme-styles.css">
+	<link rel="stylesheet" type="text/css" href="../css/blocks.css">
+	<link rel="stylesheet" type="text/css" href="../css/widgets.css">
 
 	<!-- Styles for Plugins -->
-	<link rel="stylesheet" type="text/css" href="css/swiper.min.css">
+	<link rel="stylesheet" type="text/css" href="../css/swiper.min.css">
 
 
 	<!--External fonts-->
@@ -42,18 +42,18 @@
 
 </head>
 <body class="crumina-grid">
-<?php include_once("includes/overall/googleanalyticstracking.php") ?>
+<?php include_once("../includes/overall/googleanalyticstracking.php") ?>
 
 <!-- Preloader -->
-<div id="hellopreloader" style="display: block; position: fixed;z-index: 99999;top: 0;left: 0;width: 100%;height: 100%;min-width: 100%;background: #66b5ff url(svg/preload.svg) center center no-repeat;background-size: 41px;opacity: 1;"></div>
+<!-- <div id="hellopreloader" style="display: block; position: fixed;z-index: 99999;top: 0;left: 0;width: 100%;height: 100%;min-width: 100%;background: #66b5ff url(svg/preload.svg) center center no-repeat;background-size: 41px;opacity: 1;"></div> -->
 <!-- ... end Preloader -->
 
 
 <!-- Header -->
-<?php include "includes/overall/header/white/plain/header.php"?>
+<?php include '../includes/overall/header/white/header.php'; ?>
 <!-- ... End Header -->
 
-<div class="header-spacer"></div>
+<!-- <div class="header-spacer"></div> -->
 
 <div class="content-wrapper">
 
@@ -660,8 +660,8 @@
 					<div class="col-l-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/rocket.svg" alt="rocket" class="icon-img">
-								<img class="cloud" src="img/clouds8.png" alt="cloud">
+								<img src="../svg-icons/rocket.svg" alt="rocket" class="icon-img">
+								<img class="cloud" src="../img/clouds8.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
@@ -684,8 +684,8 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
-								<img class="cloud" src="img/clouds10.png" alt="cloud">
+								<img src="../svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img class="cloud" src="../img/clouds10.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
@@ -708,8 +708,8 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
-								<img class="cloud" src="img/clouds10.png" alt="cloud">
+								<img src="../svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img class="cloud" src="../img/clouds10.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
@@ -886,32 +886,32 @@
 </div>
 
 <!-- Footer -->
-<?php include 'includes/overall/footer.php'; ?>
+<?php include '../includes/overall/footer.php'; ?>
 <!-- End Footer -->
 
 <!-- Send Message Popup -->
-<?php include 'includes/overall/send_message_popup.php'; ?>
+<?php include '../includes/overall/send_message_popup.php'; ?>
 <!-- Send Message Popup -->
 
 <!-- Search Popup -->
-<?php include 'includes/overall/search_popup.php'; ?>
+<?php include '../includes/overall/search_popup.php'; ?>
 <!-- ... end Search Popup -->
 
 <!-- User Login Popup -->
-<?php include 'includes/overall/user_login_popup.php'; ?>
+
 <!-- ... User Login Popup -->
 
 <!-- User Register Popup -->
-<?php include 'includes/overall/user_register_popup.php'; ?>
+<?php include '../includes/overall/user_register_popup.php'; ?>
 <!-- ... User Register Popup -->
 
 <!-- Used SVG-icons -->
-<?php include 'includes/overall/svg_icons.php'; ?>
+<?php include '../includes/overall/svg_icons.php'; ?>
 <!-- ... end Used SVG-icons -->
 
 
 <!-- jQuery first, then Other JS. -->
 <!-- jQuery-scripts -->
-<?php include 'includes/overall/scripts.php'; ?>
+<?php include '../includes/overall/scripts.php'; ?>
 </body>
 </html>
