@@ -17,7 +17,7 @@
 
             <div class="site-logo">
                 <a href="index" class="full-block"></a>
-                <img style="height:140px" src="https://webdevglobal.com/images/logo.png" alt="Gigabyte Developers">
+                <img style="height:140px" src="img/logo2.png" alt="Gigabyte Developers">
             </div>
 
             <nav id="primary-menu" class="primary-menu">
@@ -103,21 +103,29 @@
                     </li>
 
                     <li class="menu-item-has-mega-menu menu-item-has-children">
-                        <a href="products">Plans</a>
+                        <a href="#" >Plans</a>
                         <div class="megamenu with-products">
                             <div class="megamenu-row">
 
                                 <div class="col3" data-mh="product-item">
                                     <div class="product-item">
                                         <div class="product-item-content">
-                                            <h6 class="title" style= "margin-left:0">Web Design & Development</h6>
+                                            <h6 class="title" style="text-align:start;">Web Design & Development</h6>
                                                 <div >
-                                                   <h6 style="color:rgb(0,131,255)" >See More</h6> 
-                                                   <h6 style="color:rgb(0,131,255)">Informational Plans</h6> 
-                                                   <h6 style="color:rgb(0,131,255)">E-commerce Plans</h6> 
+                                                   <ul style="text-align:start;">
+                                                    <li>
+                                                       <a href="plans/web-pricing.php">See More</a> 
+                                                    </li>
+                                                    <li>
+                                                       <a href="informational-pricing">Informational Plans</a> 
+                                                    </li>
+                                                    <li>
+                                                       <a href="web-pricing">E-commerce Plans</a> 
+                                                    </li>
+                                                   </ul>
                                                 </div>
                                                 
-                                            </a>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -125,14 +133,20 @@
                                 <div class="col3" data-mh="product-item">
                                     <div class="product-item">
                                         <div class="product-item-content">
-                                            <h6 class="title" style= "margin-left:0">Web Design & Development</h6>
+                                        <h6 class="title" style="text-align:start;">Digital Marketing</h6>
                                                 <div >
-                                                   <h6 style="color:rgb(0,131,255)" >See More</h6> 
-                                                   <h6 style="color:rgb(0,131,255)">Informational Plans</h6> 
-                                                   <h6 style="color:rgb(0,131,255)">E-commerce Plans</h6> 
+                                                   <ul style="text-align:start;">
+                                                    <li>
+                                                       <a href="pricing">SMM Plan</a> 
+                                                    </li>
+                                                    <li>
+                                                       <a href="web-pricing">SMO Plan</a> 
+                                                    </li>
+                                                    <li>
+                                                       <a href="web-pricing">SEO Plan</a> 
+                                                    </li>
+                                                   </ul>
                                                 </div>
-                                                
-                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -140,14 +154,20 @@
                                 <div class="col3" data-mh="product-item">
                                     <div class="product-item">
                                         <div class="product-item-content">
-                                            <h6 class="title" style= "margin-left:0">Web Design & Development</h6>
+                                        <h6 class="title" style="text-align:start;">Graphic Designing</h6>
                                                 <div >
-                                                   <h6 style="color:rgb(0,131,255)" >See More</h6> 
-                                                   <h6 style="color:rgb(0,131,255)">Informational Plans</h6> 
-                                                   <h6 style="color:rgb(0,131,255)">E-commerce Plans</h6> 
+                                                   <ul style="text-align:start;">
+                                                    <li>
+                                                       <a href="pricing">See More</a> 
+                                                    </li>
+                                                    <li>
+                                                       <a href="pricing">Bramding & Promotions</a> 
+                                                    </li>
+                                                    <li>
+                                                       <a href="pricing">Graphic Designing</a> 
+                                                    </li>
+                                                   </ul>
                                                 </div>
-                                                
-                                            </a>
                                         </div>
                                     </div>
                                 </div>

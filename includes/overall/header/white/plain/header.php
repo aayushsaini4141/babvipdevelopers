@@ -41,59 +41,33 @@
                         <a href="index">Home</a>
                     </li>
 
+                    
                     <li class="">
-                        <a href="#">Company</a>
+                        <a href="#">About Us</a>
                         <ul class="sub-menu">
                             <li>
                                 <a href="about">
-                                    About Us
+                                    CEO Desk
                                 </a>
                             </li>
-<!--                            <li class="menu-item-has-children">-->
-<!--                                <a href="#">-->
-<!--                                    Services-->
-<!--                                </a>-->
-<!--                                <ul class="sub-menu">-->
-<!--                                    <li>-->
-<!--                                        <a href="05_case_details_ver_01.html">Software Development</a>-->
-<!--                                    </li>-->
-<!---->
-<!--                                    <li>-->
-<!--                                        <a href="06_case_details_ver_02.html">Web Development</a>-->
-<!--                                    </li>-->
-<!---->
-<!--                                    <li>-->
-<!--                                        <a href="07_case_details_ver_03.html">Internet Marketing</a>-->
-<!--                                    </li>-->
-<!--                                </ul>-->
-<!--                            </li>-->
-<!--                            <li>-->
-<!--                                <a href="products">-->
-<!--                                    Products-->
-<!--                                </a>-->
-<!--                            </li>-->
-<!--                            <li>-->
-<!--                                <a href="09_events_details_conference_workshops.html">-->
-<!--                                    Events-->
-<!--                                </a>-->
-<!--                            </li>-->
-                            <!--<li class="">
-                                <a href="pricing">
-                                    Tutorials
-                                </a>
-                            </li>-->
                             <li>
                                 <a href="services">
-                                    Our Services
+                                    Company Profile
                                 </a>
                             </li>
-
-<!--                            <li>-->
-<!--                                <a href="32_testimonials.html">-->
-<!--                                    Reviews-->
-<!--                                </a>-->
-<!--                            </li>-->
+                            <li>
+                                <a href="about">
+                                    Our Team
+                                </a>
+                            </li>
+                            <li>
+                                <a href="services">
+                                    Our Clients
+                                </a>
+                            </li>
                         </ul>
+                    </li>
+                        
                     </li>
 
                     <li class="menu-item-has-mega-menu menu-item-has-children">

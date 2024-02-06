@@ -262,7 +262,7 @@
 											</a>
 										</div>
 
-								<div class="pricing-line bg-pamaranch "></div>
+								<div class="pricing-line  "></div>
 
 								<ul class="pricing-tables-position" style="list-style-type: decimal; margin-left: 10px">
 									<p class="pricing-description" style="text-align: justify-all">DOMAIN AND HOSTING</p>
