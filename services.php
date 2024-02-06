@@ -66,7 +66,9 @@
 						<div class="crumina-module crumina-heading">
 							<h6 class="heading-sup-title">Our Services</h6>
 							<h2 class="heading-title">We mix the beautiful with the usable. Have a look at our Services!</h2>
-							<div class="h6 heading-text">Services such as Web Development, Software Development, Cyber Security, Big Data, Artificial Intelligence, Data Analysis, Network Administration, Machine Learning and Server/Database Management..
+							<div class="h6 heading-text">Services such as
+                                 Software Development, Web Development, Search Engine Optimizaion, Mobile App Development, 
+                                 Graphics Designing,Branding And Promotion ,Digital Marketing..
 							</div>
 						</div>
 					</div>
@@ -95,11 +97,14 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="crumina-module crumina-info-box info-box--classic" data-mh="box--classic">
                         <div class="info-box-image">
-                            <img class="utouch-icon" src="svg-icons/music1.svg" alt="smartphone">
+                            <img class="utouch-icon" src="http://www3.facturehoy.com/wp-content/uploads/2018/08/web-service.png" alt="smartphone">
                         </div>
                         <div class="info-box-content">
-                            <h5 class="info-box-title">Multimedia Services</h5>
-                            <p class="info-box-text">Turn your simple message into an extraordinary story with our innovative multimedia service. We cover events in Nigeria, Dubai, Abu Dabhi, Sharja and Pakistan for well-known names along with that we are expanding our feathers in many other countries too.</p>
+                            <h5 class="info-box-title">Web Development</h5>
+                            <p class="info-box-text">
+                            Providing web development services involves creating and maintaining websites for clients to meet their specific needs and goals. This includes designing user-friendly interfaces, writing clean and efficient code, integrating functionality 
+                            such as e-commerce platforms or content management systems, and ensuring websites are responsive and accessible across devices.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -107,11 +112,12 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="crumina-module crumina-info-box info-box--classic" data-mh="box--classic">
                         <div class="info-box-image">
-                            <img class="utouch-icon" src="svg-icons/settings.svg" alt="smartphone">
+                            <img class="utouch-icon" src="https://www.freepngimg.com/thumb/social_media/63807-icons-media-social-advertising-marketing-digital.png" alt="smartphone">
                         </div>
                         <div class="info-box-content">
-                            <h5 class="info-box-title">Quick Settings</h5>
-                            <p class="info-box-text">Custom Software Development with Technology & subject matter Expertise combined. We venture with an array of Software Companies in the Industry, starting from StartUps to the established ones. We add latest features and enhanced settings.</p>
+                            <h5 class="info-box-title">Digital Marketing</h5>
+                            <p class="info-box-text">Providing digital marketing services involves leveraging various online platforms and strategies to help 
+                                businesses reach their target audience, increase brand visibility, and drive conversions. </p>
                         </div>
                     </div>
                 </div>

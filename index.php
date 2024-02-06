@@ -801,7 +801,7 @@
 								<div class="swiper-slide">
 									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
 										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="https://maxzionit.com/wp-content/uploads/2018/04/Graphics-Design.png" alt="image">
+											<img class="utouch-icon" src="http://clipart-library.com/images_k/graphic-design-transparent/graphic-design-transparent-13.png" alt="image">
 										</div>
 									</div>
 
@@ -872,28 +872,28 @@
 								<div class="swiper-slide">
 									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
 										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="https://www.bursys.com/wp-content/uploads/2022/09/CRM_and_ERP_Implementations.png" alt="image">
+											<img class="utouch-icon" src="http://www.pngall.com/wp-content/uploads/5/Digital-Marketing-PNG-Picture.png" alt="image">
 										</div>
 									</div>
 
 									<div class="col-lg-8 col-md-12 col-sm-12 " data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">ERP & CRM Development</h5>
+										<h5 class="slider-faqs-title">Digital Marketing</h5>
 
 										<div class="row p-5">
 											<div class="col-lg-6 col-md-6 col-sm-12 p-5">
 												<ul>
-													<li>ERP & CRM For Education</li>
-													<li>ERP & CRM For Retail</li>
-													<li>ERP & CRM For Manufacturing</li>
-													<li>ERP & CRM For Healtcare</li>
+													<li>Search Engine Marketing</li>
+													<li>Social Media Marketing</li>
+													<li>Content Marketing</li>
+													<li>Email Marketing</li>
 												</ul>
 											</div>
 											<div class="col-lg-6 col-md-6 col-sm-12">
 												<ul>
-													<li>ERP & CRM For Construction</li>
-													<li>ERP & CRM For Automotive Industry</li>
-													<li>ERP & CRM For Food Industry</li>
-													<li>ERP & CRM For Real Estate</li>
+													<li>Influencer Marketing</li>
+													<li>Affilate Marketing</li>
+													<li>Marketing Automation</li>
+													<li>Mobile Marketing</li>
 												</ul>	
 											</div>
 										</div>
