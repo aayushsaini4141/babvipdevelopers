@@ -65,8 +65,41 @@
                             </li>
                         </ul>
                     </li>
-                    <li class="menu-item-has-children">
-                        <a href="index">Services</a>
+                    <li class="">
+                        <a href="#">Services</a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a href="Webdev">
+                                    Web Development
+                                </a>
+                            </li>
+                            <li>
+                                <a href="Mobiledev">
+                                 Mobile App Development
+                                </a>
+                            </li>
+                            <li>
+                                <a href="Searchengineoptimization">
+                                    Search Engine Optimiztiom
+                                </a>
+                            </li>
+                            <li>
+                                <a href="Digitalmarketing">
+                                    Digital Marketing
+                                </a>
+                            </li>
+                            <li>
+                                <a href="Branding">
+                                    Branding And Promotion
+                                </a>
+                            </li>
+                            <li>
+                                <a href="Graphicdesigning">
+                                    Graphic Designing
+                                </a>
+                            </li>
+                        </ul>
+
                     </li>
 
                     <li class="menu-item-has-mega-menu menu-item-has-children">
