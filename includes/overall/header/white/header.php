@@ -120,7 +120,7 @@
                                                        <a href="informational-pricing">Informational Plans</a> 
                                                     </li>
                                                     <li>
-                                                       <a href="web-pricing">E-commerce Plans</a> 
+                                                       <a href="ecom-pricing">E-commerce Plans</a> 
                                                     </li>
                                                    </ul>
                                                 </div>
@@ -137,13 +137,13 @@
                                                 <div >
                                                    <ul style="text-align:start;">
                                                     <li>
-                                                       <a href="pricing">SMM Plan</a> 
+                                                       <a href="smm-pricing">SMM Plan</a> 
                                                     </li>
                                                     <li>
-                                                       <a href="web-pricing">SMO Plan</a> 
+                                                       <a href="smo-pricing">SMO Plan</a> 
                                                     </li>
                                                     <li>
-                                                       <a href="web-pricing">SEO Plan</a> 
+                                                       <a href="seo-pricing">SEO Plan</a> 
                                                     </li>
                                                    </ul>
                                                 </div>
@@ -158,13 +158,13 @@
                                                 <div >
                                                    <ul style="text-align:start;">
                                                     <li>
-                                                       <a href="pricing">See More</a> 
+                                                       <a href="gd-pricing">See More</a> 
                                                     </li>
                                                     <li>
-                                                       <a href="pricing">Bramding & Promotions</a> 
+                                                       <a href="bp-pricing">Branding & Promotions</a> 
                                                     </li>
                                                     <li>
-                                                       <a href="pricing">Graphic Designing</a> 
+                                                       <a href="gd-pricing">Graphic Designing</a> 
                                                     </li>
                                                    </ul>
                                                 </div>
@@ -180,6 +180,20 @@
 <!--                        <a href="08_events.html">Events</a>-->
 <!--                    </li>-->
 
+                    <li class="">
+                        <a href="pricing">Pricing</a>
+                    </li>
+
+                    <li class="">
+                        <a href="contact">Contact</a>
+                    </li>
+                    <li class="">
+                        <a href="pricing">Pricing</a>
+                    </li>
+
+                    <li class="">
+                        <a href="contact">Contact</a>
+                    </li>
                     <li class="">
                         <a href="pricing">Pricing</a>
                     </li>

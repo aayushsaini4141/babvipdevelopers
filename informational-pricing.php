@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>Gigabyte Developers - Pricing</title>
+	<title>VIP Developers - Pricing</title>
 
     <meta name="google-site-verification" content="RjAgqUgYfT94lQ7oGZqqRI87NeSdR_6fecSUipiGBmg" />
     <meta name="msvalidate.01" content="F39E6D2A441B34A5BCA816D83B967BDF" />
@@ -50,10 +50,10 @@
 
 
 <!-- Header -->
-<?php include "includes/overall/header/white/plain/header.php"?>
+<?php include "includes/overall/header/white/header.php"?>
 <!-- ... End Header -->
 
-<div class="header-spacer"></div>
+<!-- <div class="header-spacer"></div> -->	
 
 <div class="content-wrapper">
 
@@ -65,7 +65,7 @@
 				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12 align-center">
 					<div class="crumina-module crumina-heading">
 						<h6 class="heading-sup-title">Pricing Plans for Our Services</h6>
-						<h2 class="heading-title">Web Design & Development</h2>
+						<h2 class="heading-title">Informational Web Development</h2>
 					</div>
 					<!-- <label class="tgl">
 						<input type="checkbox" checked />
@@ -257,12 +257,12 @@
 								<p style="text-align: right; color:#FF3133; margin-bottom: 0;">30% off</p>
                                 <h6 class="period" style="text-align: right; color: #f18d01; text-decoration:line-through; ">MRP ₹ 85000</h6>
 								<div style="display:flex; justify-content: center; align-item: center; height:100px; flex-direction: column;" >
-											<a href="#" class="btn btn--yellow btn--with-shadow" style="height:50px; width: 100%;">
+											<a href="#" class="btn btn--yellow  btn--with-shadow" style="height:50px; width: 100%;">
 												Buy Now
 											</a>
 										</div>
 
-								<div class="pricing-line  "></div>
+								<div class="pricing-line  bg-yellow "></div>
 
 								<ul class="pricing-tables-position" style="list-style-type: decimal; margin-left: 10px">
 									<p class="pricing-description" style="text-align: justify-all">DOMAIN AND HOSTING</p>
@@ -434,7 +434,7 @@
                                 
 							</div>
 
-							<div class="bg-pricing-content bg-pamaranch">
+							<div class="bg-pricing-content bg-yellow">  // bg-pamaranch
 								<!-- <a href="mailto:support@gigabytedevelopersinc.com?subject=I am interested in the Commercial Business Plan" class="h6 title">Let's Talk</a> -->
 							</div>
 
@@ -651,37 +651,14 @@
 			<div class="row mb60">
 				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12 align-center">
 					<div class="crumina-module crumina-heading">
-						<h2 class="heading-title">Search Engine Optimization</h2>
+						<h2 class="heading-title">Working Process</h2>
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="pricing-wrap">
-					<div class="col-l-4 col-md-12 col-sm-12 col-xs-12">
-						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
-							<div class="pricing-thumb">
-								<img src="svg-icons/rocket.svg" alt="rocket" class="icon-img">
-								<img class="cloud" src="img/clouds8.png" alt="cloud">
-							</div>
-
-							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">Local SEO<br>(Starter)</a>
-
-								<p class="pricing-description">Beating your local competitors can make a huge difference for your business. Make sure your business shows up with Local SEO service pack.</p>
-
-								<a href="mailto:support@gigabytedevelopersinc.com?subject=I am interested in the Starter SEO" class="more-arrow">
-									<span class="duration">Let's Talk</span>
-									<div class="btn-next">
-										<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
-										<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
-									</div>
-								</a>
-								<h2 class="h5 rate">$<span class="price">39</span></h2>
-							</div>
-
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+					
+					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 h-25 ">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
 								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
@@ -689,18 +666,10 @@
 							</div>
 
 							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">Sales SEO<br>(Professional)</a>
+								<a href="#" class="h5 pricing-title">Step 01</a>
 
-								<p class="pricing-description">Selling Products Online? Want to keep inventory moving? Sales SEO is the longterm strategy your business needs to keep your warehouse busy!</p>
+								<p class="pricing-description">We first discuss with the client and then note down his requirements</p>
 
-								<a href="mailto:support@gigabytedevelopersinc.com?subject=I am interested in the Professional SEO" class="more-arrow">
-									<span class="duration1">Let's Talk</span>
-									<div class="btn-next">
-										<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
-										<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
-									</div>
-								</a>
-								<h2 class="h5 rate">$<span class="price">99</span></h2>
 							</div>
 
 						</div>
@@ -713,22 +682,197 @@
 							</div>
 
 							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">National SEO<br>(Corporate)</a>
+								<a href="#" class="h5 pricing-title">Step 02</a>
 
-								<p class="pricing-description">Do you want to rank a service or product keyword at the top of your favorite Search Engine? National SEO is the strategy you need to get there.</p>
+								<p class="pricing-description">Then we send the plans and samples of the project to our client</p>
 
-								<a href="mailto:support@gigabytedevelopersinc.com?subject=I am interested in the Corporate SEO" class="more-arrow">
-									<span class="duration2">Let's Talk</span>
-									<div class="btn-next">
-										<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
-										<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
-									</div>
-								</a>
-								<h2 class="h5 rate">$<span class="price">79</span></h2>
 							</div>
 
 						</div>
 					</div>
+					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
+							<div class="pricing-thumb">
+								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img class="cloud" src="img/clouds10.png" alt="cloud">
+							</div>
+
+							<div class="main-pricing-content">
+								<a href="#" class="h5 pricing-title">Step 03</a>
+
+								<p class="pricing-description">After finalizing the design and plan, we collect all photos, contents, videos from our client</p>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row mb60">
+				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12 align-center">	
+				</div>
+			</div>
+			<div class="row">
+				<div class="pricing-wrap">
+					
+					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
+							<div class="pricing-thumb">
+								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img class="cloud" src="img/clouds10.png" alt="cloud">
+							</div>
+
+							<div class="main-pricing-content">
+								<a href="#" class="h5 pricing-title">Step 04</a>
+
+								<p class="pricing-description">Then we will take 70% in advance payment from the client and then we will start our work</p>
+
+							</div>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
+							<div class="pricing-thumb">
+								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img class="cloud" src="img/clouds10.png" alt="cloud">
+							</div>
+
+							<div class="main-pricing-content">
+								<a href="#" class="h5 pricing-title">Step 05</a>
+
+								<p class="pricing-description">We will take 6 to 8 Days time to build a 5 Pages website and then show it to the client</p>
+
+								
+							</div>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
+							<div class="pricing-thumb">
+								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img class="cloud" src="img/clouds10.png" alt="cloud">
+							</div>
+
+							<div class="main-pricing-content">
+								<a href="#" class="h5 pricing-title">Step 06</a>
+
+								<p class="pricing-description">We first test the website at our level and then upload it to the Google</p>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row mb60">
+				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12 align-center">
+					
+				</div>
+			</div>
+			<div class="row">
+				<div class="pricing-wrap">
+					
+					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
+							<div class="pricing-thumb">
+								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img class="cloud" src="img/clouds10.png" alt="cloud">
+							</div>
+
+							<div class="main-pricing-content">
+								<a href="#" class="h5 pricing-title">Step 07</a>
+
+								<p class="pricing-description">After uploading the website to Google, we take feedback from the client, and then our teamwork on it</p>
+
+							</div>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
+							<div class="pricing-thumb">
+								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img class="cloud" src="img/clouds10.png" alt="cloud">
+							</div>
+
+							<div class="main-pricing-content">
+								<a href="#" class="h5 pricing-title">Step 08</a>
+
+								<p class="pricing-description">When the client approves their website, then we will put that website on the live domain</p>
+
+								
+							</div>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
+							<div class="pricing-thumb">
+								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img class="cloud" src="img/clouds10.png" alt="cloud">
+							</div>
+
+							<div class="main-pricing-content">
+								<a href="#" class="h5 pricing-title">Step 09</a>
+
+								<p class="pricing-description">After completing your project you have to clear the remaining 30 % balance amount</p>
+
+								
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row mb60">
+				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12 align-center">
+					
+				</div>
+			</div>
+			<div class="row">
+				<div class="pricing-wrap">
+					
+					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
+							<div class="pricing-thumb">
+								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img class="cloud" src="img/clouds10.png" alt="cloud">
+							</div>
+
+							<div class="main-pricing-content">
+								<a href="#" class="h5 pricing-title">Note</a>
+
+								<p class="pricing-description">If the Client needs Website Promotions then we do SEO, SMO, PPC, SMM & many more 65+ services</p>
+
+								
+							</div>
+
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
+							<div class="pricing-thumb">
+								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img class="cloud" src="img/clouds10.png" alt="cloud">
+							</div>
+
+							<div class="main-pricing-content">
+								<a href="#" class="h5 pricing-title">Note</a>
+
+								<p class="pricing-description">Team & Support Available - Monday to Saturday 09:30 am to 7:30 pm Only</p>
+							</div>
+
+						</div>
+					</div>
+					
 				</div>
 			</div>
 		</div>
@@ -739,7 +883,7 @@
 
 	<!-- Pricing Tables -->
 
-	<section class="bg-blue-lighteen medium-padding120 crumina-pricings">
+	 <!-- <section class="bg-blue-lighteen medium-padding120 crumina-pricings">
 		<div class="container">
 			<div class="row mb60">
 				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12 align-center">
@@ -786,11 +930,6 @@
                                         Deployment and Cloud
                                     </li>
 								</ul>
-
-								<!-- <a href="mailto:support@gigabytedevelopersinc.com?subject=I am interested in the Starter Software Development Package" class="btn btn--black btn--with-shadow">
-                                    Let's Talk
-								</a> -->
-
 							</div>
 
 						</div>
@@ -826,13 +965,13 @@
                                     <li class="position-item">
                                         Obtain 1k Installs in 30 days
                                     </li>
-                                </ul>
+                                </ul> -->
 
 								<!-- <a href="mailto:support@gigabytedevelopersinc.com?subject=I am interested in the Ultimate Software Development Package" class="btn btn--orange btn--with-shadow">
                                     Let's Talk
 								</a> -->
 
-							</div>
+							<!-- </div>
 
 						</div>
 					</div>
@@ -866,24 +1005,24 @@
                                     <li class="position-item">
                                         Reinforcements(iOS)
                                     </li>
-								</ul>
+								</ul> -->
 
 								<!-- <a href="mailto:support@gigabytedevelopersinc.com?subject=I am interested in the Premium Software Development Package" class="btn btn--black btn--with-shadow">
                                     Let's Talk
 								</a> -->
 
-							</div>
+							<!-- </div>
 
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<!-- ... end Pricing Tables -->
 
-</div>
+<!-- </div> -->
 
 <!-- Footer -->
 <?php include 'includes/overall/footer.php'; ?>
