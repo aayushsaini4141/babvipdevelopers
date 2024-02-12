@@ -1,6 +1,7 @@
-<div class="window-popup login-popup">
-    <a href="#" class="popup-close js-popup-close cd-nav-trigger">
-        <svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
+<div class="window-popup open login-popup">
+<a href="index" class="popup-close  cd-nav-trigger"  style="font-size: 40px;  color:#6987AB">
+     X   
+<!-- <svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg> -->
     </a>
 
     <div class="user-login-popup">

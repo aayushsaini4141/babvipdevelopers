@@ -48,7 +48,8 @@ $(function () {
 
     });
 
-    /*$('#registerUser').click(function () {
+
+    $('#registerUser').click(function () {
         // Get some values from elements on the page:
         var username = $('#username').val();
         var first_name = $('#first_name').val();
@@ -69,6 +70,6 @@ $(function () {
         }, function (data) {
             alert(data);
         });
-    });*/
+    });
 });
 

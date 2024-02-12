@@ -1,5 +1,6 @@
 <div class="window-popup register-popup">
-    <a href="#" class="popup-close js-popup-close cd-nav-trigger">
+<a href="index" class="popup-close  cd-nav-trigger"  style="font-size: 60px;">
+X
         <svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
     </a>
 

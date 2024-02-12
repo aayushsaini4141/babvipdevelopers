@@ -187,20 +187,11 @@
                     <li class="">
                         <a href="contact">Contact</a>
                     </li>
+                    
                     <li class="">
-                        <a href="pricing">Pricing</a>
+                    <a href="login">Login/SignUp</a>   
                     </li>
-
-                    <li class="">
-                        <a href="contact">Contact</a>
-                    </li>
-                    <li class="">
-                        <a href="pricing">Pricing</a>
-                    </li>
-
-                    <li class="">
-                        <a href="contact">Contact</a>
-                    </li>
+                    
                 </ul>
 <!--                <ul class="nav-add">-->
 <!--                    <li class="search search_main">-->
@@ -237,3 +228,4 @@
 </header>
 
 <div class="header-spacer"></div>
+
