@@ -4,22 +4,22 @@
 
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>Gigabyte Developers - Company Profile</title>
+	<title>Vip Developers - Company Profile</title>
 
     <meta name="google-site-verification" content="RjAgqUgYfT94lQ7oGZqqRI87NeSdR_6fecSUipiGBmg" />
     <meta name="msvalidate.01" content="F39E6D2A441B34A5BCA816D83B967BDF" />
     <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/gigabytedevelopers/website/master/thumbnail.png" />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Gigabyte Developers Incorporated">
-    <meta property="og:title" content="Gigabyte Developers - Company Profile" />
-    <meta property="og:description" content="Official Company Profile of Gigabyte Developers Incorporated" />
+    <meta property="og:site_name" content="Vip Developers Incorporated">
+    <meta property="og:title" content="Vip Developers - Company Profile" />
+    <meta property="og:description" content="Official Company Profile of Vip Developers Incorporated" />
     <meta property="og:image" itemprop="image" content="https://raw.githubusercontent.com/gigabytedevelopers/website/master/thumbnail.png" />
     <meta property="og:image:url" itemprop="image" content="https://raw.githubusercontent.com/gigabytedevelopers/website/master/thumbnail.png" />
     <meta property="og:image:type" content="image/png" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Official Company Profile of Gigabyte Developers Incorporated">
-    <meta name="author" content="Gigabyte Developers Incorporated">
+    <meta name="description" content="Official Company Profile of Vip Developers Incorporated">
+    <meta name="author" content="Vip Developers Incorporated">
     <meta name="theme-color" content="#028fcc">
     <link rel="shortcut icon" href="img/gigaicon.png">
 
@@ -65,7 +65,7 @@
 						<div class="crumina-module-img-content medium-padding100">
 							<div class="crumina-module crumina-heading">
 								<h6 class="heading-sup-title">Company</h6>
-								<h2 class="heading-title">Welcome to <span class="c-primary">Gigabyte Developers!</span> We create high quality software solutions that will make your life a lot better.</h2>
+								<h2 class="heading-title">Welcome to <span class="c-primary">Vip Developers!</span> We create high quality software solutions that will make your life a lot better.</h2>
 								<div class="h6 heading-text">The top option for your services on Information Technology.</div>
 							</div>
 
@@ -154,7 +154,7 @@
 									<div class="info-box-content">
 										<h6 class="timeline-year c-primary">2014</h6>
 										<a href="#" class="h6 info-box-title">The Idea Phase</a>
-										<p class="info-box-text">In 2014, Gigabyte Developers was nothing more than an idea. We took our time to properly understand the industry and how best we could fit into the industry.
+										<p class="info-box-text">In 2014, Vip Developers was nothing more than an idea. We took our time to properly understand the industry and how best we could fit into the industry.
 										</p>
 									</div>
 
@@ -444,7 +444,7 @@
 													</div>
 
 													<h6 class="testimonial-text">
-                                                        You all are worth my 5 stars because you turned my dreams of owning an online store into reality for me. I have successfully launched my store, all thanks to Gigabyte Developers.
+                                                        You all are worth my 5 stars because you turned my dreams of owning an online store into reality for me. I have successfully launched my store, all thanks to Vip Developers.
 													</h6>
 
 													<ul class="rait-stars">
@@ -568,7 +568,7 @@
 				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading align-center">
 						<h2 class="heading-title">Meet the team</h2>
-						<div class="heading-text">Here is the root of our company's tree. They are the major members of the establishment. They are the people behind the successful movement of Gigabyte Developers.
+						<div class="heading-text">Here is the root of our company's tree. They are the major members of the establishment. They are the people behind the successful movement of Vip Developers.
 						</div>
 					</div>
 				</div>

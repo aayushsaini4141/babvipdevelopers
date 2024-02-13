@@ -159,9 +159,9 @@
 <!--                        <a href="#">Events</a>-->
 <!--                    </li>-->
 
-                    <li class="">
+                    <!-- <li class="">
                         <a href="pricing">Pricing</a>
-                    </li>
+                    </li> -->
 
                     <li class="">
                         <a href="contact">Contact</a>

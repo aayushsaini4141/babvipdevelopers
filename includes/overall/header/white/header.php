@@ -180,9 +180,9 @@
 <!--                        <a href="08_events.html">Events</a>-->
 <!--                    </li>-->
 
-                    <li class="">
+                    <!-- <li class="">
                         <a href="pricing">Pricing</a>
-                    </li>
+                    </li> -->
 
                     <li class="">
                         <a href="contact">Contact</a>
