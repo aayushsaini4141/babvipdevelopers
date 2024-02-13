@@ -65,7 +65,8 @@
 						<div class="crumina-module-img-content medium-padding100">
 							<div class="crumina-module crumina-heading">
 								<h6 class="heading-sup-title">Company</h6>
-								<h2 class="heading-title">Welcome to <span class="c-primary">Vip Developers!</span> We create high quality software solutions that will make your life a lot better.</h2>
+								<h2 class="heading-title">Welcome to <span class="c-primary">Vip Developers!</span> 
+								We create high quality software solutions that will make your life a lot better.</h2>
 								<div class="h6 heading-text">The top option for your services on Information Technology.</div>
 							</div>
 
