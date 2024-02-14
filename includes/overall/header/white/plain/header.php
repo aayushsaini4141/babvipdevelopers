@@ -18,7 +18,8 @@
 
             <div class="site-logo">
                 <a href="index" class="full-block"></a>
-                <img src="img/banner.png" alt="Gigabyte Developers">
+                <!-- <img src="img/banner.png" alt="Gigabyte Developers"> -->
+                <img style="height:140px" src="img/logo2.png" alt="Gigabyte Developers">
             </div>
 
             <nav id="primary-menu" class="primary-menu">

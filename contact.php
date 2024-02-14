@@ -3,22 +3,22 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>Gigabyte Developers Incorporated - Contact Page</title>
+	<title>Vip Developers Incorporated - Contact Page</title>
 
     <meta name="google-site-verification" content="RjAgqUgYfT94lQ7oGZqqRI87NeSdR_6fecSUipiGBmg" />
     <meta name="msvalidate.01" content="F39E6D2A441B34A5BCA816D83B967BDF" />
-    <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/gigabytedevelopers/website/master/thumbnail.png" />
+    <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/Vipdevelopers/website/master/thumbnail.png" />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Gigabyte Developers Incorporated">
-    <meta property="og:title" content="Gigabyte Developers - Contact Us" />
-    <meta property="og:description" content="Contact Page of Gigabyte Developers Incorporated" />
-    <meta property="og:image" itemprop="image" content="https://raw.githubusercontent.com/gigabytedevelopers/website/master/thumbnail.png" />
-    <meta property="og:image:url" itemprop="image" content="https://raw.githubusercontent.com/gigabytedevelopers/website/master/thumbnail.png" />
+    <meta property="og:site_name" content="Vip Developers Incorporated">
+    <meta property="og:title" content="Vip Developers - Contact Us" />
+    <meta property="og:description" content="Contact Page of Vip Developers Incorporated" />
+    <meta property="og:image" itemprop="image" content="https://raw.githubusercontent.com/Vipdevelopers/website/master/thumbnail.png" />
+    <meta property="og:image:url" itemprop="image" content="https://raw.githubusercontent.com/Vipdevelopers/website/master/thumbnail.png" />
     <meta property="og:image:type" content="image/png" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Contact Page of Gigabyte Developers Incorporated">
-    <meta name="author" content="Gigabyte Developers Incorporated">
+    <meta name="description" content="Contact Page of Vip Developers Incorporated">
+    <meta name="author" content="Vip Developers Incorporated">
     <meta name="theme-color" content="#028fcc">
     <link rel="shortcut icon" href="img/gigaicon.png">
 
@@ -63,7 +63,14 @@
 			<div class="col-lg-6 col-lg-12 col-sm-12 col-xs-12 no-padding">
 				<!-- Google map -->
 				<div id="map" style="height: 820px">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7942.731411890625!2d7.491267931990267!3d5.512613535618069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1042c333100c0991%3A0xfe612f5a335d5101!2sGigabyte+Developers+Incorporated!5e0!3m2!1sen!2sng!4v1493077965966" width="100%" height="820" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7942.7314118906
+						25!2d7.491267931990267!3d5.512613535618069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!
+						1s0x1042c333100c0991%3A0xfe612f5a335d5101!2sVip+Developers+Incorporated!5e0!3m2!1sen!2sng!
+						4v1493077965966" width="100%" height="820" frameborder="0" style="border:0" allowfullscreen>
+					</iframe> -->
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55361.57352815603!2d77.85362600697526!3d29.861437490977806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390eb36e08b35119%3A0x798f5dc25ebd0a72!2sRoorkee%2C%20Uttarakhand!5e0!3m2!1sen!2sin!4v1707887826155!5m2!1sen!2sin"
+						width="100%" height="820" frameborder="0" style="border:0" allowfullscreen>
+					</iframe>
                 </div>
 			</div>
 
@@ -87,13 +94,15 @@
 
 				<div class="crumina-module crumina-heading">
 					<h3 class="heading-title">Get in Touch</h3>
-					<div class="heading-text" style="text-align: justify">You can meet our team and representatives in person at our office by just paying a homely visit at the address below or call on phone for more details to schedule a visit to Gigabyte Developers.
+					<div class="heading-text" style="text-align: justify">You can meet our team and representatives in 
+					person at our office by just paying a homely visit at the address below or call on phone for more 
+					details to schedule a visit to Vip Developers.
 					</div>
 				</div>
 				<div class="widget w-contacts w-contacts--style2 ">
 					<div class="contact-item display-flex">
 						<svg class="utouch-icon utouch-icon-placeholder-3"><use xlink:href="#utouch-icon-placeholder-3"></use></svg>
-						<span class="info">#40, Nnokwa Street, World Bank Housing Estate, Umuahia, Abia State. Nigeria</span>
+						<span class="info">Roorkee Uttrakhand</span>
 					</div>
 					<div class="contact-item display-flex">
 						<svg class="utouch-icon utouch-icon-telephone-keypad-with-ten-keys"><use xlink:href="#utouch-icon-telephone-keypad-with-ten-keys"></use></svg>
@@ -104,7 +113,7 @@
 					</div>
 					<div class="contact-item display-flex">
 						<svg class="utouch-icon utouch-icon-message"><use xlink:href="#utouch-icon-message"></use></svg>
-						<a href="#" class="info">support@gigabytedevelopersinc.com</a>
+						<a href="#" class="info">support@Vipdevelopersinc.com</a>
 					</div>
 
 					<a href="#" class="btn btn--grey btn--with-shadow js-message-popup cd-nav-trigger">
