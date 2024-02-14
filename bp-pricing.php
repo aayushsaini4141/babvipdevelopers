@@ -894,9 +894,7 @@
 <?php include 'includes/overall/search_popup.php'; ?>
 <!-- ... end Search Popup -->
 
-<!-- User Login Popup -->
-<?php include 'includes/overall/user_login_popup.php'; ?>
-<!-- ... User Login Popup -->
+
 
 <!-- User Register Popup -->
 <?php include 'includes/overall/user_register_popup.php'; ?>
