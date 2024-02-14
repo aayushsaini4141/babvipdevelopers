@@ -50,7 +50,7 @@
 
 
 <!-- Header -->
-<?php include "includes/overall/header/white/header_with_nav.php"?>
+<?php include "includes/overall/header/white/header.php"?>
 <!-- ... End Header -->
 
 <!-- <div class="header-spacer"></div> -->	

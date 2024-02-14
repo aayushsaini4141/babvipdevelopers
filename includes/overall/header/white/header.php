@@ -188,9 +188,9 @@
                         <a href="contact">Contact</a>
                     </li>
                     
-                    <li class="">
+                    <!-- <li class="">
                     <a href="login">Login/SignUp</a>   
-                    </li>
+                    </li> -->
                     
                 </ul>
 <!--                <ul class="nav-add">-->

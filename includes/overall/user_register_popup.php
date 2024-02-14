@@ -1,4 +1,4 @@
-<div class="window-popup register-popup">
+<!-- <div class="window-popup register-popup">
 <a href="index" class="popup-close  cd-nav-trigger"  style="font-size: 60px;">
 X
         <svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
@@ -61,4 +61,4 @@ X
 
         </form>
     </div>
-</div>
+</div> -->
