@@ -18,7 +18,8 @@
 
             <div class="site-logo">
                 <a href="index" class="full-block"></a>
-                <img src="img/banner.png" alt="Gigabyte Developers">
+                <!-- <img src="img/banner.png" alt="Gigabyte Developers"> -->
+                <img style="height:140px" src="img/logo2.png" alt="Gigabyte Developers">
             </div>
 
             <nav id="primary-menu" class="primary-menu">
@@ -70,7 +71,7 @@
                         
                     </li>
 
-                    <li class="menu-item-has-mega-menu menu-item-has-children">
+                    <!-- <li class="menu-item-has-mega-menu menu-item-has-children">
                         <a href="products">Products</a>
                         <div class="megamenu with-products">
                             <div class="megamenu-row">
@@ -153,15 +154,15 @@
 
                             </div>
                         </div>
-                    </li>
+                    </li> -->
 
 <!--                    <li class="menu-item-has-mega-menu menu-item-has-children">-->
 <!--                        <a href="#">Events</a>-->
 <!--                    </li>-->
 
-                    <li class="">
+                    <!-- <li class="">
                         <a href="pricing">Pricing</a>
-                    </li>
+                    </li> -->
 
                     <li class="">
                         <a href="contact">Contact</a>

@@ -42,21 +42,21 @@
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
 							</li>
 							<li>
-								<a href="about">Company</a>
+								<a href="about">About</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
 							</li>
 							<li>
-								<a href="products">Products</a>
+								<a href="webdev">Services</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
 							</li>
 <!--							<li>-->
 <!--								<a href="08_events.php">Events</a>-->
 <!--								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>-->
 <!--							</li>-->
-							<li>
+							<!-- <li>
 								<a href="pricing">Pricing</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
-							</li>
+							</li> -->
 <!--							<li>-->
 <!--								<a href="16_news.html">News</a>-->
 <!--								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>-->
@@ -65,14 +65,14 @@
 								<a href="contact">Contact</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
 							</li>
-							<li>
+							<!-- <li>
 								<a href="terms">T & C</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
 							</li>
 							<li>
 								<a href="privacy">Privacy Policy</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
-							</li>
+							</li> -->
 						</ul>
 					</div>
 				</div>
