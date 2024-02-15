@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>Gigabyte Developers - Pricing</title>
+	<title>Vip Developers - Pricing</title>
 
     <meta name="google-site-verification" content="RjAgqUgYfT94lQ7oGZqqRI87NeSdR_6fecSUipiGBmg" />
     <meta name="msvalidate.01" content="F39E6D2A441B34A5BCA816D83B967BDF" />
@@ -897,9 +897,6 @@
 <?php include 'includes/overall/search_popup.php'; ?>
 <!-- ... end Search Popup -->
 
-<!-- User Login Popup -->
-<?php include 'includes/overall/user_login_popup.php'; ?>
-<!-- ... User Login Popup -->
 
 <!-- User Register Popup -->
 <?php include 'includes/overall/user_register_popup.php'; ?>
