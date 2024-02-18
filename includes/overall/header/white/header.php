@@ -114,7 +114,7 @@
                                                 <div >
                                                    <ul style="text-align:start;">
                                                     <li>
-                                                       <a href="plans/web-pricing.php">See More</a> 
+                                                       <a href="web-pricing.php">See More</a> 
                                                     </li>
                                                     <li>
                                                        <a href="informational-pricing">Informational Plans</a> 
@@ -188,9 +188,9 @@
                         <a href="contact">Contact</a>
                     </li>
                     
-                    <!-- <li class="">
+                    <li class="">
                     <a href="login">Login/SignUp</a>   
-                    </li> -->
+                    </li>
                     
                 </ul>
 <!--                <ul class="nav-add">-->

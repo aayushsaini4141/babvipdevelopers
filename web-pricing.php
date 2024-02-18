@@ -20,14 +20,14 @@
     <meta name="description" content="Official Pricing for our Services at Gigabyte Developers">
     <meta name="author" content="Gigabyte Developers Incorporated">
     <meta name="theme-color" content="#028fcc">
-    <link rel="shortcut icon" href="../img/gigaicon.png">
+    <link rel="shortcut icon" href="img/gigaicon.png">
 
-	<link rel="stylesheet" type="text/css" href="../css/theme-styles.css">
-	<link rel="stylesheet" type="text/css" href="../css/blocks.css">
-	<link rel="stylesheet" type="text/css" href="../css/widgets.css">
+	<link rel="stylesheet" type="text/css" href="css/theme-styles.css">
+	<link rel="stylesheet" type="text/css" href="css/blocks.css">
+	<link rel="stylesheet" type="text/css" href="css/widgets.css">
 
 	<!-- Styles for Plugins -->
-	<link rel="stylesheet" type="text/css" href="../css/swiper.min.css">
+	<link rel="stylesheet" type="text/css" href="css/swiper.min.css">
 
 
 	<!--External fonts-->
@@ -42,15 +42,15 @@
 
 </head>
 <body class="crumina-grid">
-<?php include_once("../includes/overall/googleanalyticstracking.php") ?>
+<?php include_once("includes/overall/googleanalyticstracking.php") ?>
 
 <!-- Preloader -->
-<!-- <div id="hellopreloader" style="display: block; position: fixed;z-index: 99999;top: 0;left: 0;width: 100%;height: 100%;min-width: 100%;background: #66b5ff url(svg/preload.svg) center center no-repeat;background-size: 41px;opacity: 1;"></div> -->
-<!-- ... end Preloader -->
+<div id="hellopreloader" style="display: block; position: fixed;z-index: 99999;top: 0;left: 0;width: 100%;height: 100%;min-width: 100%;background: #66b5ff url(svg/preload.svg) center center no-repeat;background-size: 41px;opacity: 1;"></div>
+<!-- ... end Preloader --> 
 
 
 <!-- Header -->
-<?php include '../includes/overall/header/white/header.php'; ?>
+<?php include 'includes/overall/header/white/header.php'; ?>
 <!-- ... End Header -->
 
 <!-- <div class="header-spacer"></div> -->
@@ -255,14 +255,14 @@
 								<h5 class="pricing-title">GOLD PLAN</h5>
                                 <h1 class="h1 rate">₹<span class="" data-onetime="599" data-recurring="84000">84000</span></h1>
 								<p style="text-align: right; color:#FF3133; margin-bottom: 0;">30% off</p>
-                                <h6 class="period" style="text-align: right; color: #f18d01; text-decoration:line-through; ">MRP ₹ 85000</h6>
+                                <h6 class="period" style="text-align: right;  color: #EEC235; text-decoration:line-through; ">MRP ₹ 85000</h6>
 								<div style="display:flex; justify-content: center; align-item: center; height:100px; flex-direction: column;" >
 											<a href="#" class="btn btn--yellow btn--with-shadow" style="height:50px; width: 100%;">
 												Buy Now
 											</a>
 										</div>
 
-								<div class="pricing-line bg-pamaranch "></div>
+								<div class="pricing-line bg-yellow "></div>
 
 								<ul class="pricing-tables-position" style="list-style-type: decimal; margin-left: 10px">
 									<p class="pricing-description" style="text-align: justify-all">DOMAIN AND HOSTING</p>
@@ -434,7 +434,7 @@
                                 
 							</div>
 
-							<div class="bg-pricing-content bg-pamaranch">
+							<div class="bg-pricing-content bg-yellow">
 								<!-- <a href="mailto:support@gigabytedevelopersinc.com?subject=I am interested in the Commercial Business Plan" class="h6 title">Let's Talk</a> -->
 							</div>
 
@@ -661,7 +661,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 h-25 ">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img src="svg-icons/number-1.svg" alt="no.1" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -677,7 +677,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-2.svg" alt="no.2" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -693,7 +693,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-3.svg" alt="no.3" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -720,7 +720,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img src="svg-icons/number-4.svg" alt="no.4" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -736,7 +736,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-5.svg" alt="no.5" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -753,7 +753,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-6.svg" alt="no.6" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -781,7 +781,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img src="svg-icons/number-7.svg" alt="no.7" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -797,7 +797,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-8.svg" alt="no.8" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -814,7 +814,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-9.svg" alt="no.9" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -843,7 +843,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img src="svg-icons/note.svg" alt="note" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -860,7 +860,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/note.svg" alt="note" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -885,15 +885,15 @@
 </div>
 
 <!-- Footer -->
-<?php include '../includes/overall/footer.php'; ?>
+<?php include 'includes/overall/footer.php'; ?>
 <!-- End Footer -->
 
 <!-- Send Message Popup -->
-<?php include '../includes/overall/send_message_popup.php'; ?>
+<?php include 'includes/overall/send_message_popup.php'; ?>
 <!-- Send Message Popup -->
 
 <!-- Search Popup -->
-<?php include '../includes/overall/search_popup.php'; ?>
+<?php include 'includes/overall/search_popup.php'; ?>
 <!-- ... end Search Popup -->
 
 <!-- User Login Popup -->
@@ -901,16 +901,16 @@
 <!-- ... User Login Popup -->
 
 <!-- User Register Popup -->
-<?php include '../includes/overall/user_register_popup.php'; ?>
+<?php include 'includes/overall/user_register_popup.php'; ?>
 <!-- ... User Register Popup -->
 
 <!-- Used SVG-icons -->
-<?php include '../includes/overall/svg_icons.php'; ?>
+<?php include 'includes/overall/svg_icons.php'; ?>
 <!-- ... end Used SVG-icons -->
 
 
 <!-- jQuery first, then Other JS. -->
 <!-- jQuery-scripts -->
-<?php include '../includes/overall/scripts.php'; ?>
+<?php include 'includes/overall/scripts.php'; ?>
 </body>
 </html>
