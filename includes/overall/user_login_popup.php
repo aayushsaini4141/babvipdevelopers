@@ -1,7 +1,15 @@
+<<<<<<< HEAD
  <div class="window-popup open login-popup">
 <a href="index" class="popup-close  cd-nav-trigger"  style="font-size: 40px;  color:#6987AB">
      X    <svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg> 
      </a>
+=======
+<div class="window-popup open login-popup">
+<a href="index" class="popup-close  cd-nav-trigger"  style="font-size: 40px;  color:#6987AB">
+     X    
+<!-- <svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg> -->
+    </a>
+>>>>>>> a771d4d3082df15325f89ee3e7b15dc1c27a4cef
 
     <div class="user-login-popup">
         <h5>Authentication</h5>
@@ -33,5 +41,9 @@
 </div>
 
 
+<<<<<<< HEAD
  <!-- User Register Popup  -->
+=======
+<!-- User Register Popup -->
+>>>>>>> a771d4d3082df15325f89ee3e7b15dc1c27a4cef
 <?php include_once 'includes/overall/user_register_popup.php'; ?>

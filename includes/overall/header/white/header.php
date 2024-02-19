@@ -114,7 +114,7 @@
                                                 <div >
                                                    <ul style="text-align:start;">
                                                     <li>
-                                                       <a href="plans/web-pricing.php">See More</a> 
+                                                       <a href="web-pricing.php">See More</a> 
                                                     </li>
                                                     <li>
                                                        <a href="informational-pricing">Informational Plans</a> 

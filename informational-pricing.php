@@ -255,7 +255,7 @@
 								<h5 class="pricing-title">GOLD PLAN</h5>
                                 <h1 class="h1 rate">₹<span class="" data-onetime="599" data-recurring="84000">84000</span></h1>
 								<p style="text-align: right; color:#FF3133; margin-bottom: 0;">30% off</p>
-                                <h6 class="period" style="text-align: right; color: #f18d01; text-decoration:line-through; ">MRP ₹ 85000</h6>
+                                <h6 class="period" style="text-align: right; color: #EEC235; text-decoration:line-through; ">MRP ₹ 85000</h6>
 								<div style="display:flex; justify-content: center; align-item: center; height:100px; flex-direction: column;" >
 											<a href="#" class="btn btn--yellow  btn--with-shadow" style="height:50px; width: 100%;">
 												Buy Now
