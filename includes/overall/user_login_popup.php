@@ -1,8 +1,7 @@
-<!-- <div class="window-popup open login-popup">
+ <div class="window-popup open login-popup">
 <a href="index" class="popup-close  cd-nav-trigger"  style="font-size: 40px;  color:#6987AB">
-     X    -->
-<!-- <svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg> -->
-    <!-- </a>
+     X    <svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg> 
+     </a>
 
     <div class="user-login-popup">
         <h5>Authentication</h5>
@@ -31,8 +30,8 @@
 
         </form>
     </div>
-</div> -->
+</div>
 
 
-<!-- User Register Popup -->
-<!-- <?php include_once 'includes/overall/user_register_popup.php'; ?> -->
+ <!-- User Register Popup  -->
+<?php include_once 'includes/overall/user_register_popup.php'; ?>

@@ -1008,16 +1008,17 @@
 									</div>
 
 									<h6 class="testimonial-text" data-swiper-parallax="-300">
-										You all are worth my 5stars because you turned my dreams of owning 
-										an online store into reality for me. I have successfully launched my 
-										shopping website, all thanks to Vip Developers.
-									</h6>
+									Our household appliance website project aims to create a comprehensive platform that offers a wide range of home appliances 
+									for sale online. The website will feature a user-friendly interface, allowing customers to easily browse and purchase products 
+									such as refrigerators, washing machines, ovens, and more.
+									 We will also provide detailed product descriptions, specifications, and customer reviews to help users make informed decisions.		
+								</h6>
 
 									<div class="author-info-wrap" data-swiper-parallax="-100">
 
 										<div class="author-info">
-											<a href="#" class="h6 author-name">Ritesh Sharma (Roorkee)</a>
-											<div class="author-company">Entrepreneur, 23 years old</div>
+											<a href="https://anyhlps.co.in/" class="h6 author-name">Anyhlps Household Appliances</a>
+											<div class="author-company">Project-(1)</div>
 										</div>
 
 									</div>
