@@ -61,15 +61,15 @@
 <!--								<a href="16_news.html">News</a>-->
 <!--								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>-->
 <!--							</li>-->
-							<li>
+							<!-- <li>
 								<a href="contact">Contact</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
 							</li>
-							<!-- <li>
+							 <li>
 								<a href="terms">T & C</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
-							</li>
-							<li>
+							</li> -->
+							<!-- <li>
 								<a href="privacy">Privacy Policy</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
 							</li> -->

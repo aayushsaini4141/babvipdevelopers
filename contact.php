@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>Contact Page</title>
+	<title>Gigabyte Developers Incorporated - Contact Page</title>
 
     <meta name="google-site-verification" content="RjAgqUgYfT94lQ7oGZqqRI87NeSdR_6fecSUipiGBmg" />
     <meta name="msvalidate.01" content="F39E6D2A441B34A5BCA816D83B967BDF" />
