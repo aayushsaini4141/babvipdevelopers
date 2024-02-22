@@ -661,12 +661,12 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 h-25 ">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img src="svg-icons/number-1.svg" alt="no.1" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">Step 01</a>
+								<p  class="h5 pricing-title">Step 01</p>
 
 								<p class="pricing-description">We first discuss with the client and then note down his requirements</p>
 
@@ -677,12 +677,12 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-2.svg" alt="no.2" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">Step 02</a>
+								<p  class="h5 pricing-title">Step 02</p>
 
 								<p class="pricing-description">Then we send the plans and samples of the project to our client</p>
 
@@ -693,12 +693,12 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-3-n.svg" alt="no.3" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">Step 03</a>
+								<p  class="h5 pricing-title">Step 03</p>
 
 								<p class="pricing-description">After finalizing the design and plan, we collect all photos, contents, videos from our client</p>
 
@@ -720,12 +720,12 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img src="svg-icons/number-4.svg" alt="no.4" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">Step 04</a>
+								<p  class="h5 pricing-title">Step 04</p>
 
 								<p class="pricing-description">Then we will take 70% in advance payment from the client and then we will start our work</p>
 
@@ -736,12 +736,12 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-5.svg" alt="no.5" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">Step 05</a>
+								<p  class="h5 pricing-title">Step 05</p>
 
 								<p class="pricing-description">We will take 6 to 8 Days time to build a 5 Pages website and then show it to the client</p>
 
@@ -753,12 +753,12 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-6.svg" alt="no.6" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">Step 06</a>
+								<p  class="h5 pricing-title">Step 06</p>
 
 								<p class="pricing-description">We first test the website at our level and then upload it to the Google</p>
 
@@ -781,12 +781,12 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img src="svg-icons/number-7.svg" alt="no.7" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">Step 07</a>
+								<p  class="h5 pricing-title">Step 07</p>
 
 								<p class="pricing-description">After uploading the website to Google, we take feedback from the client, and then our teamwork on it</p>
 
@@ -797,12 +797,12 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-8.svg" alt="no.8" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">Step 08</a>
+								<p  class="h5 pricing-title">Step 08</p>
 
 								<p class="pricing-description">When the client approves their website, then we will put that website on the live domain</p>
 
@@ -814,12 +814,12 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/number-9.svg" alt="no.9" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
 							<div class="main-pricing-content">
-								<a href="#" class="h5 pricing-title">Step 09</a>
+								<p  class="h5 pricing-title">Step 09</p>
 
 								<p class="pricing-description">After completing your project you have to clear the remaining 30 % balance amount</p>
 
@@ -843,7 +843,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/cup.svg" alt="cup" class="icon-img">
+								<img src="svg-icons/note.svg" alt="note" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
@@ -860,7 +860,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-pricing-tables-item pricing-tables--item-with-thumb" data-mh="pricing">
 							<div class="pricing-thumb">
-								<img src="svg-icons/shirt.svg" alt="shirt" class="icon-img">
+								<img src="svg-icons/note.svg" alt="note" class="icon-img">
 								<img class="cloud" src="img/clouds10.png" alt="cloud">
 							</div>
 
