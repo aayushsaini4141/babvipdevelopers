@@ -571,6 +571,7 @@
 						<h2 class="heading-title">Meet the team</h2>
 						<div class="heading-text">Here is the root of our company's tree. They are the major members of the establishment. They are the people behind the successful movement of Vip Developers.
 						</div>
+
 					</div>
 				</div>
 
@@ -579,14 +580,14 @@
 						<div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
-								<img src="img/teammember3.png" alt="team member">
+								<img src="img/kushal.jpg" alt="team member" style="height: 300px; width: 200px; border:1px tranparent; border-radius:5%">
 							</div>
 
 							<div class="teammember-content">
 
-								<div class="teammembers-item-prof">Founder and CEO</div>
+								<div class="teammembers-item-prof">GRAPHIC DESIGNER</div>
 
-								<a href="#" class="h5 teammembers-item-name">Nwokoma Emmanuel</a>
+								<a href="#" class="h5 teammembers-item-name">kushal Sharma</a>
 
 								<p>As the founder being able to work with clients from a wide range of industries, he has been the person that makes us tick.</p>
 
@@ -734,16 +735,16 @@
 						<div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
-								<img src="img/teammember3.png" alt="team member">
+								<img src="img/tejas.jpg" alt="team member" style="height: 300px; width: 200px; border:1px tranparent; border-radius:5%" >
 							</div>
 
 							<div class="teammember-content">
 
-								<div class="teammembers-item-prof">Lead Developer</div>
+								<div class="teammembers-item-prof">graphic designer executive</div>
 
-								<a href="#" class="h5 teammembers-item-name">Martins Victor</a>
+								<a href="#" class="h5 teammembers-item-name">Tejas Chaudhary</a>
 
-								<p>Martins works effortlessly with software technologies and maintains them. He has become an important pillar in our growth.</p>
+								<p>Kushal works effortlessly in digital marketing and maintains them. He has become an important pillar in our growth.</p>
 
 								<ul class="socials socials--round">
 									<li>
