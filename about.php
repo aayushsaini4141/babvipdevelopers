@@ -4,7 +4,7 @@
 
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>Vip Developers - Company Profile</title>
+	<title>Vip Developers - About Us</title>
 
     <meta name="google-site-verification" content="RjAgqUgYfT94lQ7oGZqqRI87NeSdR_6fecSUipiGBmg" />
     <meta name="msvalidate.01" content="F39E6D2A441B34A5BCA816D83B967BDF" />
@@ -67,16 +67,16 @@
 								<h6 class="heading-sup-title">Company</h6>
 								<h2 class="heading-title">Welcome to <span class="c-primary">Vip Developers!</span> 
 								We create high quality software solutions that will make your life a lot better.</h2>
-								<div class="h6 heading-text">The top option for your services on Information Technology.</div>
+								<!-- <div class="h6 heading-text">The top option for your services on Information Technology.</div> -->
 							</div>
 
-							<a href="products" class="btn btn-border btn--with-shadow c-primary">
+							<!-- <a href="products" class="btn btn-border btn--with-shadow c-primary">
 								Our Products
 							</a>
 
 							<a href="services" class="btn btn--green btn--with-shadow">
 								Our Services
-							</a>
+							</a> -->
 
 						</div>
 					</div>
@@ -242,7 +242,7 @@
 
 	<!-- Case Item -->
 
-	<section class="crumina-module crumina-module-slider medium-padding100">
+	<!-- <section class="crumina-module crumina-module-slider medium-padding100">
 		<div class="container">
 			<div class="row">
 				<div class="crumina-module crumina-module-img-bottom">
@@ -275,11 +275,7 @@
                                     <div class="case-item-content">
                                         <h5 class="title">Splanner - which have turned out to be one of the best Student Planner for all College Students</h5>
                                         <a href="#" class="more-arrow white">
-                                            <!--											<span>View Case</span>-->
-                                            <!--											<div class="btn-next">-->
-                                            <!--												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>-->
-                                            <!--												<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>-->
-                                            <!--											</div>-->
+                                            
                                         </a>
                                     </div>
                                 </div>
@@ -295,11 +291,7 @@
                                     <div class="case-item-content">
                                         <h5 class="title">CometOTP - The perfect option for 2-step verification to protect your online accounts from hijackers</h5>
                                         <a href="#" class="more-arrow white">
-                                            <!--											<span>View Case</span>-->
-                                            <!--											<div class="btn-next">-->
-                                            <!--												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>-->
-                                            <!--												<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>-->
-                                            <!--											</div>-->
+                                        
                                         </a>
                                     </div>
                                 </div>
@@ -315,11 +307,7 @@
                                     <div class="case-item-content">
                                         <h5 class="title">FireFiles - A powerful File Manager for virtually anything that runs on Android</h5>
                                         <a href="#" class="more-arrow white">
-                                            <!--											<span>View Case</span>-->
-                                            <!--											<div class="btn-next">-->
-                                            <!--												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>-->
-                                            <!--												<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>-->
-                                            <!--											</div>-->
+                                           
                                         </a>
                                     </div>
                                 </div>
@@ -335,25 +323,21 @@
                                     <div class="case-item-content">
                                         <h5 class="title">CalcMate - A very powerful, multi-dimensional, multi-purpose Calculator app for Android</h5>
                                         <a href="#" class="more-arrow white">
-                                            <!--											<span>View Case</span>-->
-                                            <!--											<div class="btn-next">-->
-                                            <!--												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>-->
-                                            <!--												<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>-->
-                                            <!--											</div>-->
+                                            											
                                         </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <!-- If we need pagination -->
+                         // If we need pagination 
                         <div class="swiper-pagination bottom-left"></div>
                     </div>
                 </div>
 
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<!-- ... end Case Items -->
 
@@ -679,7 +663,7 @@
 							</div>
 						</div>
 
-                        <div class="crumina-module crumina-teammembers-item">
+                        <!-- <div class="crumina-module crumina-teammembers-item">
 
                             <div class="teammembers-thumb">
                                 <img src="img/teammember2.png" alt="team member">
@@ -728,7 +712,7 @@
 
 
                             </div>
-                        </div>
+                        </div> -->
 					</div>
 
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -830,7 +814,7 @@
 							</div>
 						</div>
 
-                        <div class="crumina-module crumina-teammembers-item">
+                        <!-- <div class="crumina-module crumina-teammembers-item">
 
                             <div class="teammembers-thumb">
                                 <img src="img/teammember3.png" alt="team member">
@@ -879,7 +863,7 @@
 
 
                             </div>
-                        </div>
+                        </div> -->
 
 
 					</div>

@@ -80,7 +80,7 @@
 										<h6 class="slider-content-text" data-swiper-parallax="-200">"To give real service, you must add something that cannot be bought or measured with money, and that is sincerity and integrity."
 										</h6>
 
-										<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
+										<!-- <div class="main-slider-btn-wrap" data-swiper-parallax="-300">
 
 											<a href="products" class="btn btn--yellow btn--with-shadow">
 												Learn More
@@ -89,7 +89,7 @@
 											<a href="about" class="btn btn-border btn--with-shadow c-primary">
 												Get Started Now
 											</a>
-										</div>
+										</div> -->
 									</div>
 								</div>
 								<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -994,7 +994,7 @@
 
 	<!-- Testimonials -->
 
-	<section class="crumina-module crumina-module-slider bg-4 cloud-center navigation-center-both-sides medium-padding100">
+	<section class="crumina-module crumina-module-slider bg-5 cloud-center navigation-center-both-sides medium-padding100">
 			<div class="container">
 				<div class="row">
 					<h5 style="text-align: center">Projects<h5>
@@ -1004,7 +1004,7 @@
 								<div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
 
 									<div class="testimonial-img-author" data-swiper-parallax="-100">
-										<img src="img/author2.png" alt="avatar">
+										<img src="img/logo2.png" alt="avatar">
 									</div>
 
 									<h6 class="testimonial-text" data-swiper-parallax="-300">
@@ -1027,7 +1027,7 @@
 								<div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
 
 									<div class="testimonial-img-author" data-swiper-parallax="-100">
-										<img src="img/author2.png" alt="avatar">
+										<img src="img/logo2.png" alt="avatar">
 									</div>
 
 									<h6 class="testimonial-text" data-swiper-parallax="-300">
@@ -1050,7 +1050,7 @@
 								<div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
 
 									<div class="testimonial-img-author" data-swiper-parallax="-100">
-										<img src="img/author2.png" alt="avatar">
+										<img src="img/logo2.png" alt="avatar">
 									</div>
 
 									<h6 class="testimonial-text" data-swiper-parallax="-300">
@@ -1075,10 +1075,10 @@
 
 			<!--Prev next buttons-->
 
-			<!-- <div class="btn-prev">
+			<div class="btn-prev">
 				<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
 				<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
-			</div> -->
+			</div>
 
 			<div class="btn-next">
 				<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>

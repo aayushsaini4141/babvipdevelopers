@@ -41,29 +41,8 @@
                     </li>
 
                     <li class="">
-                        <a href="#">About Us</a>
-                        <ul class="sub-menu">
-                            <li>
-                                <a href="about">
-                                    CEO Desk
-                                </a>
-                            </li>
-                            <li>
-                                <a href="services">
-                                    Company Profile
-                                </a>
-                            </li>
-                            <li>
-                                <a href="about">
-                                    Our Team
-                                </a>
-                            </li>
-                            <li>
-                                <a href="services">
-                                    Our Clients
-                                </a>
-                            </li>
-                        </ul>
+                        <a href="about">About Us</a>
+                        
                     </li>
                     <li class="">
                         <a href="#">Services</a>
